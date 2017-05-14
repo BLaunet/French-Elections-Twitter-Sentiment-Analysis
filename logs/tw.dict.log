@@ -1,0 +1,878 @@
+2017-04-19 20:42:56,851 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 20:44:13,571 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 20:45:37,746 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 20:46:37,426 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 20:47:55,866 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 20:48:30,759 :: INFO :: Saving key buffer of len 115 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 20:48:30,780 :: INFO :: Saving key buffer of len 3671 at ./utils/processed_v2.pkl
+2017-04-19 20:59:35,243 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 20:59:54,513 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:01:40,293 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:02:30,576 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:03:33,062 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:16:51,817 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:16:51,858 :: INFO :: 2615 keys have been loaded
+2017-04-19 21:17:19,919 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:17:19,941 :: INFO :: 2615 keys have been loaded
+2017-04-19 21:17:22,940 :: INFO :: Loading dict at ./utils/processed_v2.pkl
+2017-04-19 21:17:24,004 :: INFO :: 28671 keys have been loaded
+2017-04-19 21:20:17,513 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:21:00,399 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:21:56,206 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:23:45,034 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:23:46,526 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:25:35,073 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:26:30,991 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:27:09,942 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:28:40,290 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:29:10,595 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:30:17,764 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:31:55,042 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:31:55,989 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:33:36,354 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:34:49,240 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:35:06,636 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:36:37,412 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:37:57,505 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:38:07,265 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:39:53,924 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:41:37,994 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:41:44,434 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:43:14,227 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:44:45,180 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:45:28,413 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:46:16,264 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:47:38,155 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:48:59,963 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:49:14,532 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:50:38,721 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:51:56,584 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:52:04,884 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:53:33,161 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:55:26,354 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:55:35,834 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:57:14,318 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:58:26,872 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 21:59:20,462 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 21:59:34,264 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:00:47,736 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:02:08,155 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:02:59,826 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:03:21,533 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:04:29,654 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:05:42,032 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:07:01,634 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:07:02,479 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:08:18,611 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:09:37,463 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:10:52,573 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:10:57,818 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:12:21,892 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:13:50,059 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:14:18,639 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:15:35,637 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:17:20,792 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:18:06,108 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:18:55,661 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:20:24,690 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:21:44,718 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:22:02,692 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:23:04,385 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:24:17,766 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:25:21,608 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:25:58,646 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:26:35,637 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:27:48,266 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:29:31,189 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:30:24,565 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:30:50,357 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:32:06,033 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:34:33,865 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:35:32,953 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:36:05,590 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:37:44,770 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:39:03,311 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:40:16,444 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:40:44,500 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:42:07,631 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:43:51,512 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:44:46,714 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:45:29,063 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:46:58,670 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:48:28,546 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:49:13,418 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:49:44,956 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:51:03,909 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:52:21,883 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:53:28,156 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:53:36,705 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:55:08,875 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:55:46,647 :: INFO :: Loading dict at ./utils/processed_v2.pkl
+2017-04-19 22:56:16,067 :: INFO :: 353671 keys have been loaded
+2017-04-19 22:57:05,190 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 22:58:33,314 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 22:58:35,155 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:00:23,832 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:02:06,828 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:03:24,919 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:03:47,286 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:05:38,285 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:07:38,895 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:08:56,062 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:09:09,614 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:10:23,783 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:11:29,112 :: INFO :: Loading dict at ./utils/processed_v2.pkl
+2017-04-19 23:12:22,199 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:12:55,971 :: INFO :: 403671 keys have been loaded
+2017-04-19 23:14:25,176 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:15:17,137 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:15:57,564 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:17:29,552 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:19:12,432 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:21:24,601 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:21:34,134 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:23:18,988 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:25:24,756 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:27:19,988 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:28:38,009 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:28:41,647 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:30:21,470 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:31:34,584 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:33:05,279 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:33:44,074 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:34:39,042 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:36:38,293 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:38:12,436 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:39:36,364 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:39:51,336 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:41:14,207 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:42:46,580 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:43:04,625 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:43:04,739 :: INFO :: 19615 keys have been loaded
+2017-04-19 23:44:16,613 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:45:36,747 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:46:19,741 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:47:51,394 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:50:23,374 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:51:48,892 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:52:00,129 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:53:30,546 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:54:29,914 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:55:52,740 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:56:30,706 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-19 23:56:49,834 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-19 23:58:15,010 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:00:16,561 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:02:57,531 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:03:08,751 :: INFO :: Loading dict at ./utils/processed_v2.pkl.540000.bak
+2017-04-20 00:04:54,672 :: INFO :: 538671 keys have been loaded
+2017-04-20 00:05:45,190 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:06:49,806 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:10:54,598 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:12:25,550 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:13:56,281 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:14:16,791 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:15:21,606 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:16:33,912 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:17:51,156 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:19:34,042 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:19:46,311 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:21:05,878 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:22:47,632 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:24:07,840 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:26:37,710 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:27:31,071 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:29:47,376 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:31:25,651 :: INFO :: Loading dict at ./utils/processed_v2.pkl.620000.bak
+2017-04-20 00:31:43,352 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:34:13,833 :: INFO :: 618671 keys have been loaded
+2017-04-20 00:34:23,405 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:34:51,418 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:36:16,824 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:38:03,516 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:39:53,849 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:41:12,991 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:42:08,688 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:43:44,821 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:44:58,009 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:46:07,528 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:46:44,474 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:47:13,006 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:48:29,089 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:49:41,589 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:51:35,135 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:52:16,265 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:53:38,890 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:55:40,978 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:57:10,463 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:58:39,670 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 00:58:52,938 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 00:59:53,767 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:01:24,813 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:02:40,115 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:04:07,120 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:04:23,893 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:05:42,555 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:07:13,416 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:08:29,350 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:09:17,582 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:09:48,250 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:11:07,147 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:12:23,240 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:13:54,193 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:15:06,246 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:15:31,031 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:16:44,298 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:17:58,660 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:19:05,503 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:20:14,396 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:20:44,440 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:21:15,170 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:22:19,878 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:23:21,112 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:24:30,631 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:25:27,726 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:26:06,793 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:26:44,673 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:28:08,167 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:30:04,479 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:31:49,753 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:31:51,256 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:33:39,152 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:35:55,866 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:39:36,250 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:40:23,883 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:41:23,798 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:43:41,138 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:45:25,722 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:46:15,830 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:47:17,723 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:48:45,249 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:50:11,531 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:51:26,384 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:51:45,292 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:53:25,600 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:54:50,616 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:56:42,401 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:57:03,843 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 01:58:12,671 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 01:59:40,481 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:01:41,339 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:02:44,199 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 02:03:53,956 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:05:24,801 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:07:26,003 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:09:18,377 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:10:27,922 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 02:11:20,616 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:13:13,147 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:15:08,397 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:16:24,552 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 02:16:47,285 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:17:14,242 :: INFO :: Loading dict at ./utils/processed.pkl.100000.bak
+2017-04-20 02:17:30,267 :: INFO :: Loading dict at ./utils/already_processed.pkl
+2017-04-20 02:18:36,143 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:20:25,210 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:21:22,115 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 02:22:50,254 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:24:45,941 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:26:10,352 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:26:14,875 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 02:27:55,647 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:29:21,133 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:30:42,615 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:32:19,319 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:32:21,061 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 02:33:56,347 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:36:36,639 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:38:07,795 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:39:41,635 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 02:40:11,801 :: INFO :: Saving key buffer of len 5000 at ./utils/processed_v2.pkl
+2017-04-20 02:41:33,472 :: INFO :: Saving key buffer of len 182 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 02:41:33,513 :: INFO :: Saving key buffer of len 4134 at ./utils/processed_v2.pkl
+2017-04-20 03:09:40,612 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 03:09:40,798 :: INFO :: 34297 keys have been loaded
+2017-04-20 03:16:41,238 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 03:16:41,398 :: INFO :: 34297 keys have been loaded
+2017-04-20 04:49:09,550 :: INFO :: Loading dict at utils/processed_v2.pkl.1010000.bak
+2017-04-20 04:51:15,223 :: INFO :: 1008671 keys have been loaded
+2017-04-20 05:43:52,364 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 05:43:52,550 :: INFO :: 34297 keys have been loaded
+2017-04-20 05:49:20,372 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 05:49:20,721 :: INFO :: 34297 keys have been loaded
+2017-04-20 05:52:48,467 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 05:52:48,559 :: INFO :: 34297 keys have been loaded
+2017-04-20 05:53:14,537 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-20 05:53:14,659 :: INFO :: 34297 keys have been loaded
+2017-04-27 19:40:56,868 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-27 19:40:57,041 :: INFO :: 34297 keys have been loaded
+2017-04-27 19:41:09,693 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-04-27 19:41:09,780 :: INFO :: 34297 keys have been loaded
+2017-05-02 09:40:51,149 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-05-02 09:40:51,343 :: INFO :: 34297 keys have been loaded
+2017-05-02 09:43:59,451 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-05-02 09:43:59,596 :: INFO :: 34297 keys have been loaded
+2017-05-02 10:25:38,878 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-05-02 10:25:39,024 :: INFO :: 34297 keys have been loaded
+2017-05-02 11:52:41,917 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict_v2.pkl
+2017-05-02 11:52:42,058 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:08:23,756 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:08:23,891 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:15:34,117 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:15:34,255 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:29:05,148 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:29:05,255 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:32:35,688 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:32:35,774 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:46:18,722 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:46:18,817 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:50:37,140 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:50:37,237 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:50:47,611 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:50:47,711 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:50:49,720 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:50:49,811 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:51:01,487 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:51:01,579 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:51:05,135 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:51:05,218 :: INFO :: 34297 keys have been loaded
+2017-05-02 12:51:28,006 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 12:51:28,102 :: INFO :: 34297 keys have been loaded
+2017-05-02 13:22:37,872 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 13:22:38,032 :: INFO :: 34297 keys have been loaded
+2017-05-02 13:22:44,835 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 13:22:44,923 :: INFO :: 34297 keys have been loaded
+2017-05-02 13:25:29,418 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 13:25:29,511 :: INFO :: 34297 keys have been loaded
+2017-05-02 13:25:56,031 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 13:25:56,115 :: INFO :: 34297 keys have been loaded
+2017-05-02 13:42:38,527 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 13:42:38,632 :: INFO :: 34297 keys have been loaded
+2017-05-02 14:10:28,367 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 14:10:28,503 :: INFO :: 34297 keys have been loaded
+2017-05-02 14:21:01,476 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 14:21:01,565 :: INFO :: 34297 keys have been loaded
+2017-05-02 14:21:10,738 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 14:21:10,832 :: INFO :: 34297 keys have been loaded
+2017-05-02 14:27:02,898 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 14:27:02,993 :: INFO :: 34297 keys have been loaded
+2017-05-02 15:21:58,042 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 15:21:58,131 :: INFO :: 34297 keys have been loaded
+2017-05-02 15:27:58,406 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-02 15:27:58,529 :: INFO :: 34297 keys have been loaded
+2017-05-03 08:53:25,492 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 08:53:25,629 :: INFO :: 34297 keys have been loaded
+2017-05-03 08:53:48,214 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 08:53:48,306 :: INFO :: 34297 keys have been loaded
+2017-05-03 08:54:01,102 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 08:54:01,207 :: INFO :: 34297 keys have been loaded
+2017-05-03 08:58:17,495 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 08:58:17,584 :: INFO :: 34297 keys have been loaded
+2017-05-03 09:31:56,491 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 09:31:56,594 :: INFO :: 34297 keys have been loaded
+2017-05-03 09:37:34,345 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 09:37:34,453 :: INFO :: 34297 keys have been loaded
+2017-05-03 09:43:51,205 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 09:43:51,296 :: INFO :: 34297 keys have been loaded
+2017-05-03 09:55:26,395 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 09:55:26,525 :: INFO :: 34297 keys have been loaded
+2017-05-03 09:57:05,772 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 09:57:05,915 :: INFO :: 34297 keys have been loaded
+2017-05-03 10:00:17,983 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 10:00:18,081 :: INFO :: 34297 keys have been loaded
+2017-05-03 10:06:22,971 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 10:06:23,121 :: INFO :: 34297 keys have been loaded
+2017-05-03 10:07:18,376 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 10:07:18,464 :: INFO :: 34297 keys have been loaded
+2017-05-03 10:24:38,943 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 10:24:39,035 :: INFO :: 34297 keys have been loaded
+2017-05-03 11:03:44,290 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 11:03:44,887 :: INFO :: 34297 keys have been loaded
+2017-05-03 12:34:14,854 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 12:34:15,012 :: INFO :: 34297 keys have been loaded
+2017-05-03 12:34:55,716 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 12:34:55,817 :: INFO :: 34297 keys have been loaded
+2017-05-03 12:48:57,782 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 12:48:57,881 :: INFO :: 34297 keys have been loaded
+2017-05-03 12:50:38,479 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 12:50:38,578 :: INFO :: 34297 keys have been loaded
+2017-05-03 13:05:43,910 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 13:05:44,045 :: INFO :: 34297 keys have been loaded
+2017-05-03 14:20:19,573 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 14:20:19,728 :: INFO :: 34297 keys have been loaded
+2017-05-03 14:23:24,213 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 14:23:24,293 :: INFO :: 34297 keys have been loaded
+2017-05-03 14:23:46,238 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 14:23:46,345 :: INFO :: 34297 keys have been loaded
+2017-05-03 15:08:18,896 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 15:08:19,001 :: INFO :: 34297 keys have been loaded
+2017-05-03 15:14:57,109 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 15:14:57,192 :: INFO :: 34297 keys have been loaded
+2017-05-03 15:21:35,551 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 15:21:35,681 :: INFO :: 34297 keys have been loaded
+2017-05-03 21:09:07,093 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 21:09:07,231 :: INFO :: 34297 keys have been loaded
+2017-05-03 21:22:58,585 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 21:22:58,694 :: INFO :: 34297 keys have been loaded
+2017-05-03 22:09:52,460 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 22:09:52,608 :: INFO :: 34297 keys have been loaded
+2017-05-03 22:18:24,982 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 22:18:25,116 :: INFO :: 34297 keys have been loaded
+2017-05-03 22:38:20,848 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 22:38:20,987 :: INFO :: 34297 keys have been loaded
+2017-05-03 22:43:15,243 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 22:43:15,404 :: INFO :: 34297 keys have been loaded
+2017-05-03 22:46:06,957 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 22:46:07,094 :: INFO :: 34297 keys have been loaded
+2017-05-03 22:57:17,709 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 22:57:17,854 :: INFO :: 34297 keys have been loaded
+2017-05-03 22:58:30,518 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 22:58:30,650 :: INFO :: 34297 keys have been loaded
+2017-05-03 23:33:10,774 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-03 23:33:10,946 :: INFO :: 34297 keys have been loaded
+2017-05-03 23:34:14,640 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-03 23:34:14,820 :: INFO :: 34297 keys have been loaded
+2017-05-03 23:38:16,991 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-03 23:38:17,130 :: INFO :: 34297 keys have been loaded
+2017-05-03 23:38:56,590 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-03 23:38:56,821 :: INFO :: 34297 keys have been loaded
+2017-05-03 23:39:35,247 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-03 23:39:35,355 :: INFO :: 34297 keys have been loaded
+2017-05-03 23:41:30,823 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-03 23:41:30,945 :: INFO :: 34297 keys have been loaded
+2017-05-04 14:31:20,963 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 14:31:21,099 :: INFO :: 34297 keys have been loaded
+2017-05-04 14:35:06,870 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 14:35:06,998 :: INFO :: 34297 keys have been loaded
+2017-05-04 14:35:21,642 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 14:35:21,733 :: INFO :: 34297 keys have been loaded
+2017-05-04 14:46:14,180 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 14:51:40,082 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 14:57:49,054 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:03:11,639 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:08:20,965 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:13:30,068 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:18:52,596 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:23:43,213 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:28:23,116 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:33:12,506 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:39:17,448 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 15:44:22,982 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 19:52:14,759 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 19:52:14,964 :: INFO :: 40297 keys have been loaded
+2017-05-04 19:52:39,029 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 19:52:39,163 :: INFO :: 40297 keys have been loaded
+2017-05-04 20:07:51,504 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 20:07:51,610 :: INFO :: 40297 keys have been loaded
+2017-05-04 20:26:03,191 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 20:26:03,321 :: INFO :: 40297 keys have been loaded
+2017-05-04 20:33:49,333 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 20:33:49,499 :: INFO :: 40297 keys have been loaded
+2017-05-04 21:21:08,392 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 21:21:08,571 :: INFO :: 40297 keys have been loaded
+2017-05-04 23:02:50,120 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 23:02:50,322 :: INFO :: 44797 keys have been loaded
+2017-05-04 23:13:10,434 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 23:19:04,483 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 23:25:18,827 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 23:32:28,735 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 23:38:40,441 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 23:45:01,911 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 23:51:12,161 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-04 23:57:52,109 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 00:05:30,022 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 09:18:12,189 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 09:18:12,530 :: INFO :: 49297 keys have been loaded
+2017-05-05 09:19:17,182 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 09:19:17,358 :: INFO :: 49297 keys have been loaded
+2017-05-05 09:30:30,914 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 09:36:27,386 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 09:42:21,309 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 09:48:59,119 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 09:54:53,764 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 10:01:05,458 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 10:08:35,458 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 10:15:22,317 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 11:48:19,589 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 11:48:19,982 :: INFO :: 53297 keys have been loaded
+2017-05-05 12:00:37,049 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 12:07:43,176 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 12:14:49,092 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 12:21:20,928 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 12:28:36,201 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 12:35:09,475 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 12:42:21,606 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 12:49:28,248 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 20:58:28,930 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 20:58:29,259 :: INFO :: 57297 keys have been loaded
+2017-05-05 21:10:31,135 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 21:10:31,493 :: INFO :: 57297 keys have been loaded
+2017-05-05 21:24:40,860 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 21:31:56,077 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 21:39:27,852 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 21:46:13,352 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 21:54:28,311 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 22:01:58,662 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 22:34:54,841 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 22:34:55,086 :: INFO :: 60297 keys have been loaded
+2017-05-05 22:48:18,895 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 22:56:58,007 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 23:05:44,489 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 23:13:25,070 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 23:20:34,673 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-05 23:28:04,246 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 10:36:16,065 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 10:36:16,467 :: INFO :: 63297 keys have been loaded
+2017-05-06 10:53:33,892 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 11:01:31,498 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 11:09:09,649 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 11:16:16,695 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 11:23:48,110 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 11:30:54,213 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 11:47:29,405 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 11:47:29,702 :: INFO :: 66297 keys have been loaded
+2017-05-06 11:58:39,422 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 12:05:05,251 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 12:12:48,267 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 12:19:40,030 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 12:26:48,852 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 12:50:12,911 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 12:50:13,259 :: INFO :: 68797 keys have been loaded
+2017-05-06 13:12:32,307 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 13:19:26,458 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 13:26:22,280 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 13:32:57,508 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 13:45:16,539 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 13:51:01,758 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 13:57:23,035 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:03:45,699 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:10:36,374 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:17:01,326 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:23:34,817 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:30:35,341 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:37:11,595 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:43:53,871 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:51:16,102 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 14:59:17,276 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 15:39:26,485 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 15:39:26,965 :: INFO :: 76797 keys have been loaded
+2017-05-06 16:00:55,319 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 16:08:50,291 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 16:16:21,288 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 16:24:31,660 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 16:32:25,538 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 16:39:49,734 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 16:46:48,467 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 16:53:55,445 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 17:02:01,022 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 17:09:09,852 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 17:17:22,568 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 17:25:50,780 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 17:33:39,978 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 17:40:16,375 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 17:47:17,584 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 17:54:36,032 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 18:01:54,145 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 18:46:11,770 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 18:46:12,173 :: INFO :: 85297 keys have been loaded
+2017-05-06 18:52:29,115 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 18:52:29,363 :: INFO :: 85297 keys have been loaded
+2017-05-06 19:00:13,630 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 19:00:13,895 :: INFO :: 85297 keys have been loaded
+2017-05-06 19:33:08,852 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 19:33:09,130 :: INFO :: 85297 keys have been loaded
+2017-05-06 19:54:59,557 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 19:54:59,823 :: INFO :: 85297 keys have been loaded
+2017-05-06 20:01:49,171 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 20:01:49,472 :: INFO :: 85297 keys have been loaded
+2017-05-06 20:02:13,007 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 20:02:13,242 :: INFO :: 85297 keys have been loaded
+2017-05-06 20:21:21,656 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 20:21:21,948 :: INFO :: 85297 keys have been loaded
+2017-05-06 20:47:58,193 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 20:54:59,864 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 21:01:53,168 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 21:08:44,414 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 21:16:03,111 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 21:23:42,087 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 21:30:58,008 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 21:38:32,361 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 21:45:31,136 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 21:53:29,470 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 22:00:35,847 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 22:08:10,402 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 22:15:19,165 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 22:22:28,035 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 22:29:26,699 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:10:50,359 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:10:50,692 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:12:09,263 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:12:09,509 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:14:12,236 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:14:12,496 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:15:12,085 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:15:12,825 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:15:48,224 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:15:48,505 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:16:43,882 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:16:44,214 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:18:42,646 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:18:42,906 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:19:48,998 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:19:49,258 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:20:43,334 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:20:43,647 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:21:51,448 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:21:51,705 :: INFO :: 92797 keys have been loaded
+2017-05-06 23:35:38,445 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-06 23:35:38,781 :: INFO :: 92797 keys have been loaded
+2017-05-07 01:28:05,689 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 01:33:48,375 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 01:38:57,346 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 01:44:19,253 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 01:50:44,886 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 01:55:54,735 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:02:06,022 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:07:58,094 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:13:15,962 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:18:46,782 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:24:43,015 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:29:48,283 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:35:13,273 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:53:32,921 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 02:59:33,734 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:04:59,652 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:10:37,513 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:16:31,037 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:22:10,120 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:27:04,854 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:33:59,627 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:38:58,432 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:44:17,287 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:50:58,115 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 03:56:17,841 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:01:32,831 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:06:10,082 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:11:23,171 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:16:03,644 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:20:49,129 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:26:02,385 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:30:47,728 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:36:31,817 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:41:09,788 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:46:10,871 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:51:32,278 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 04:56:41,835 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:01:46,640 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:06:52,564 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:11:45,267 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:17:32,404 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:23:01,598 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:28:25,670 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:33:47,862 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:39:37,810 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:45:14,932 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:50:11,177 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 05:56:04,577 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:01:45,270 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:07:45,915 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:12:11,179 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:17:53,889 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:22:50,669 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:28:06,457 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:34:45,174 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:39:47,920 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:44:40,403 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:49:40,888 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:54:42,586 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 06:59:22,938 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:04:27,296 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:09:49,824 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:15:03,471 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:20:17,158 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:24:54,690 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:30:02,325 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:34:39,292 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:39:25,183 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:43:48,872 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:48:22,831 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:52:55,219 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 07:58:14,483 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:02:51,912 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:09:00,725 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:14:29,215 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:19:29,926 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:24:07,052 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:29:02,168 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:33:14,852 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:38:06,918 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:42:28,318 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:47:20,580 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:52:12,376 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 08:56:56,867 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 09:02:24,557 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 09:07:30,104 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 11:31:04,036 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 11:31:04,562 :: INFO :: 135797 keys have been loaded
+2017-05-07 11:39:37,178 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 11:39:37,543 :: INFO :: 135797 keys have been loaded
+2017-05-07 11:45:16,244 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 11:45:16,621 :: INFO :: 135797 keys have been loaded
+2017-05-07 11:58:20,002 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 11:58:20,477 :: INFO :: 135797 keys have been loaded
+2017-05-07 17:04:40,701 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 17:04:41,546 :: INFO :: 135797 keys have been loaded
+2017-05-07 17:18:18,093 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 17:18:19,022 :: INFO :: 135797 keys have been loaded
+2017-05-07 17:19:01,784 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 17:19:02,158 :: INFO :: 135797 keys have been loaded
+2017-05-07 20:05:51,189 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:11:18,364 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:17:02,483 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:22:41,485 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:28:48,491 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:34:27,219 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:40:01,182 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:45:35,513 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:51:35,473 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 20:58:01,440 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 21:04:27,039 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 22:28:56,745 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 22:28:57,403 :: INFO :: 141297 keys have been loaded
+2017-05-07 22:31:41,352 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 22:31:41,827 :: INFO :: 141297 keys have been loaded
+2017-05-07 22:49:23,788 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 22:53:52,030 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 22:58:26,575 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:03:11,138 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:08:02,020 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:13:08,901 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:18:12,174 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:22:33,078 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:27:29,274 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:32:45,347 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:38:18,196 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:43:49,354 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:49:04,787 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:54:13,705 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-07 23:59:27,697 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 00:05:18,190 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 00:10:48,851 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 00:16:26,680 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 08:21:00,414 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 08:21:00,989 :: INFO :: 150297 keys have been loaded
+2017-05-08 08:22:04,332 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 08:22:04,821 :: INFO :: 150297 keys have been loaded
+2017-05-08 08:51:24,266 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 08:51:24,708 :: INFO :: 150297 keys have been loaded
+2017-05-08 09:09:56,961 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 09:09:57,694 :: INFO :: 150297 keys have been loaded
+2017-05-08 09:45:52,920 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 09:45:53,410 :: INFO :: 150297 keys have been loaded
+2017-05-08 10:07:15,853 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 10:13:56,731 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 10:21:13,708 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 10:27:27,650 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 10:33:37,302 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 10:40:33,974 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 10:47:20,229 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 10:53:43,366 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 11:00:23,250 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 11:06:58,747 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 11:13:09,043 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 11:19:03,929 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 11:25:49,652 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:02:29,654 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:05:17,577 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:05:46,482 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:05:47,210 :: INFO :: 157297 keys have been loaded
+2017-05-08 12:06:23,873 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:06:24,731 :: INFO :: 157297 keys have been loaded
+2017-05-08 12:08:03,355 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:08:04,103 :: INFO :: 157297 keys have been loaded
+2017-05-08 12:10:44,214 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:19:25,247 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:26:49,749 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:34:25,792 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 12:43:31,679 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 13:21:02,406 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 13:27:22,679 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 13:33:23,396 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 13:39:11,092 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 13:45:32,077 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 13:52:10,960 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 13:59:51,652 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:08:35,011 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:16:28,199 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:23:18,148 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:29:22,039 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:29:22,774 :: INFO :: 164797 keys have been loaded
+2017-05-08 14:29:35,651 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:29:36,633 :: INFO :: 164797 keys have been loaded
+2017-05-08 14:30:45,885 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:30:46,531 :: INFO :: 164797 keys have been loaded
+2017-05-08 14:30:54,194 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:37:36,413 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:43:48,628 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:49:38,027 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 14:55:13,224 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 15:01:12,978 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 15:07:53,520 :: INFO :: Saving key buffer of len 500 at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 16:32:53,415 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 16:32:54,139 :: INFO :: 168297 keys have been loaded
+2017-05-08 16:40:34,452 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 16:40:35,162 :: INFO :: 168297 keys have been loaded
+2017-05-08 16:58:51,493 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 16:58:51,948 :: INFO :: 168297 keys have been loaded
+2017-05-08 17:42:35,378 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 17:42:35,875 :: INFO :: 168297 keys have been loaded
+2017-05-08 17:53:39,591 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 17:53:40,109 :: INFO :: 168297 keys have been loaded
+2017-05-08 17:58:45,252 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 17:58:45,721 :: INFO :: 168297 keys have been loaded
+2017-05-08 17:59:48,199 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 17:59:48,677 :: INFO :: 168297 keys have been loaded
+2017-05-08 19:40:44,124 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 19:40:44,591 :: INFO :: 168297 keys have been loaded
+2017-05-08 20:06:05,077 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 20:06:05,547 :: INFO :: 168297 keys have been loaded
+2017-05-08 20:06:42,714 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 20:06:43,219 :: INFO :: 168297 keys have been loaded
+2017-05-08 20:15:14,814 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-08 20:15:15,364 :: INFO :: 168297 keys have been loaded
+2017-05-10 00:12:11,650 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 00:12:12,324 :: INFO :: 168297 keys have been loaded
+2017-05-10 00:13:37,256 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 00:13:37,750 :: INFO :: 168297 keys have been loaded
+2017-05-10 00:51:31,602 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 00:51:32,126 :: INFO :: 168297 keys have been loaded
+2017-05-10 01:29:06,891 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 01:29:07,457 :: INFO :: 168297 keys have been loaded
+2017-05-10 01:38:40,063 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 01:38:40,653 :: INFO :: 168297 keys have been loaded
+2017-05-10 01:54:49,315 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 01:54:50,077 :: INFO :: 168297 keys have been loaded
+2017-05-10 02:03:33,671 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 02:03:34,167 :: INFO :: 168297 keys have been loaded
+2017-05-10 02:03:45,538 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 02:03:45,963 :: INFO :: 168297 keys have been loaded
+2017-05-10 02:04:04,049 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-10 02:04:04,499 :: INFO :: 168297 keys have been loaded
+2017-05-13 11:58:02,306 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-13 11:58:02,899 :: INFO :: 168297 keys have been loaded
+2017-05-13 11:58:53,524 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-13 11:58:54,066 :: INFO :: 168297 keys have been loaded
+2017-05-13 11:59:48,726 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-13 11:59:49,333 :: INFO :: 168297 keys have been loaded
+2017-05-13 13:58:56,407 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-13 13:58:57,373 :: INFO :: 289297 keys have been loaded
+2017-05-13 15:30:13,827 :: INFO :: Loading dict at /Users/Barth/Documents/Tweets_collection/utils/corrections_dict.pkl
+2017-05-13 15:30:14,633 :: INFO :: 289297 keys have been loaded
+2017-05-13 19:17:33,369 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-13 19:17:34,557 :: INFO :: 289297 keys have been loaded
+2017-05-13 19:20:55,758 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-13 19:20:56,853 :: INFO :: 289297 keys have been loaded
+2017-05-13 19:30:11,646 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-13 19:30:12,360 :: INFO :: 289297 keys have been loaded
+2017-05-13 19:30:21,276 :: INFO :: Loading dict at ./utils/corrections_dict.pkl
+2017-05-13 19:30:22,072 :: INFO :: 289297 keys have been loaded

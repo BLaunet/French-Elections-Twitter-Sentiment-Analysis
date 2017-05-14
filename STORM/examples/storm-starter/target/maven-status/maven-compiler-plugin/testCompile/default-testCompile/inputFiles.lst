@@ -1,0 +1,9 @@
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/tools/MockTupleHelpers.java
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/tools/RankableObjectWithFieldsTest.java
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/tools/RankingsTest.java
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/bolt/TotalRankingsBoltTest.java
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/bolt/IntermediateRankingsBoltTest.java
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/tools/SlotBasedCounterTest.java
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/bolt/RollingCountBoltTest.java
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/tools/SlidingWindowCounterTest.java
+/Users/iza/Desktop/apache-storm-0.9.2-incubating/examples/storm-starter/test/jvm/storm/starter/tools/NthLastModifiedTimeTrackerTest.java

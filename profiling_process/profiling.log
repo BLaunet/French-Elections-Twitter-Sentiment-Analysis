@@ -1,0 +1,829 @@
+FOR ~30 000 TWEETS PROCESSED :
+
+         288050247 function calls (287606890 primitive calls) in 3276.721 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.001    0.001 3276.743 3276.743 {built-in method builtins.exec}
+        1  405.411  405.411 3276.742 3276.742 <string>:3(<module>)
+     9131    0.950    0.000 2798.720    0.307 textProcessor.py:46(process)
+     9134    0.185    0.000 2452.389    0.268 textProcessor.py:205(correct_sms)
+    14388    0.796    0.000 2449.621    0.170 textProcessor.py:127(translate_online)
+    14243    0.097    0.000 2150.033    0.151 request.py:140(urlopen)
+    14243    0.274    0.000 2149.936    0.151 request.py:508(open)
+    14243    0.070    0.000 2147.590    0.151 request.py:536(_open)
+    28486    0.080    0.000 2147.520    0.075 request.py:497(_call_chain)
+    14243    0.102    0.000 2147.409    0.151 request.py:1345(http_open)
+    14243    0.584    0.000 2147.307    0.151 request.py:1276(do_open)
+   214941    0.932    0.000 2126.808    0.010 {method 'readline' of '_io.BufferedReader' objects}
+    14248    0.143    0.000 2125.876    0.149 socket.py:572(readinto)
+    14248 2125.654    0.149 2125.654    0.149 {method 'recv_into' of '_socket.socket' objects}
+    14243    0.242    0.000 2123.204    0.149 client.py:1287(getresponse)
+    14243    0.479    0.000 2122.074    0.149 client.py:290(begin)
+    14243    0.551    0.000 2113.143    0.148 client.py:257(_read_status)
+    14240    0.587    0.000  257.689    0.018 __init__.py:87(__init__)
+    14240    0.095    0.000  256.222    0.018 __init__.py:285(_feed)
+    14240    0.252    0.000  256.110    0.018 _html5lib.py:61(feed)
+    14240    0.097    0.000  241.533    0.017 html5parser.py:223(parse)
+    14240    0.207    0.000  241.428    0.017 html5parser.py:80(_parse)
+     9131    1.601    0.000  231.444    0.025 textProcessor.py:273(score)
+    14240   10.393    0.001  230.567    0.016 html5parser.py:152(mainLoop)
+  2450569    3.134    0.000  111.147    0.000 html5parser.py:219(normalizedTokens)
+  2450569   18.428    0.000  102.527    0.000 _tokenizer.py:49(__iter__)
+    35127    1.223    0.000  100.975    0.003 ops.py:803(wrapper)
+   423075    2.012    0.000   88.798    0.000 __init__.py:1414(_log)
+    35127    0.194    0.000   87.550    0.002 ops.py:749(na_op)
+    35127    0.176    0.000   86.695    0.002 ops.py:727(_comp_method_OBJECT_ARRAY)
+    35127   79.323    0.002   86.252    0.002 {pandas.lib.scalar_compare}
+    18262   78.461    0.004   78.461    0.004 {method 'findall' of '_regex.Pattern' objects}
+911360/854400    2.183    0.000   61.679    0.000 html5parser.py:410(processStartTag)
+   423075    1.090    0.000   61.042    0.000 __init__.py:1439(handle)
+   423075    2.639    0.000   59.512    0.000 __init__.py:1493(callHandlers)
+   423223    1.624    0.000   56.873    0.000 __init__.py:845(handle)
+   423075    1.412    0.000   53.130    0.000 handlers.py:63(emit)
+    18262    0.694    0.000   49.335    0.003 textProcessor.py:165(tag)
+   840160    3.760    0.000   48.595    0.000 base.py:292(insertElementNormal)
+    18262    2.437    0.000   48.152    0.003 treetaggerwrapper.py:1240(tag_text)
+   556447    1.301    0.000   47.562    0.000 __init__.py:1279(debug)
+   200264    1.204    0.000   45.178    0.000 __init__.py:1291(info)
+   105381    1.131    0.000   36.271    0.000 frame.py:2035(__getitem__)
+   926889    2.145    0.000   31.622    0.000 base.py:318(insertText)
+   926889    3.159    0.000   29.189    0.000 _html5lib.py:313(insertText)
+    35127    0.444    0.000   29.064    0.001 frame.py:2078(_getitem_array)
+  1781289    8.991    0.000   28.913    0.000 _html5lib.py:230(appendChild)
+     9131    0.785    0.000   27.764    0.003 textProcessor.py:90(find_relevant_words)
+       36    0.195    0.005   27.003    0.750 tweetStream.py:66(load)
+   423075    0.657    0.000   26.759    0.000 __init__.py:1056(emit)
+   423223    1.557    0.000   26.623    0.000 __init__.py:975(emit)
+   846298    1.225    0.000   26.222    0.000 __init__.py:822(format)
+    35127    0.777    0.000   25.199    0.001 generic.py:1650(take)
+   538760   25.139    0.000   25.139    0.000 {method 'readline' of '_io._IOBase' objects}
+   846298    4.114    0.000   24.990    0.000 __init__.py:557(format)
+   423075    2.702    0.000   24.802    0.000 handlers.py:177(shouldRollover)
+    14243    0.049    0.000   23.085    0.002 client.py:1236(request)
+    14243    0.256    0.000   23.036    0.002 client.py:1241(_send_request)
+    14243    0.053    0.000   21.751    0.002 client.py:1223(endheaders)
+    14243    0.082    0.000   21.698    0.002 client.py:1017(_send_output)
+    14243    0.118    0.000   21.599    0.002 client.py:956(send)
+ 19402391   15.243    0.000   21.591    0.000 _inputstream.py:240(char)
+    28480    0.137    0.000   21.013    0.001 element.py:1273(find)
+    14243    0.186    0.000   21.003    0.001 client.py:933(connect)
+    28480    0.128    0.000   20.865    0.001 element.py:1284(find_all)
+    28480    1.679    0.000   20.738    0.001 element.py:518(_find_all)
+    14243    0.164    0.000   20.730    0.001 socket.py:688(create_connection)
+    35127    0.715    0.000   20.585    0.001 internals.py:3943(take)
+    46526    1.135    0.000   20.486    0.000 textProcessor.py:188(get_candidate_reference)
+   423075    1.476    0.000   19.927    0.000 __init__.py:1399(makeRecord)
+ 36282524   13.463    0.000   19.877    0.000 {built-in method builtins.isinstance}
+   212364   19.005    0.000   19.005    0.000 {built-in method _pickle.load}
+   423075    9.328    0.000   18.451    0.000 __init__.py:246(__init__)
+  3389616   10.622    0.000   17.821    0.000 _inputstream.py:320(charsUntil)
+  2135996    4.612    0.000   17.510    0.000 _tokenizer.py:242(dataState)
+    14243    0.158    0.000   16.952    0.001 socket.py:726(getaddrinfo)
+   854400    2.813    0.000   16.845    0.000 _html5lib.py:120(elementClass)
+  2449280    7.339    0.000   16.654    0.000 _tokenizer.py:873(attributeNameState)
+  2664169    8.829    0.000   16.608    0.000 _html5lib.py:289(setAttributes)
+  1367040    2.216    0.000   16.606    0.000 element.py:1675(search)
+    14243   16.355    0.001   16.488    0.001 {built-in method _socket.getaddrinfo}
+    14240    0.078    0.000   15.993    0.001 client.py:438(read)
+    14240    0.159    0.000   15.915    0.001 client.py:558(_readall_chunked)
+    44058    0.241    0.000   15.422    0.000 client.py:534(_get_chunk_left)
+   213600    0.451    0.000   15.080    0.000 html5parser.py:1033(startTagCloseP)
+    35127    0.348    0.000   14.991    0.000 internals.py:3813(reindex_indexer)
+   427200    0.809    0.000   14.716    0.000 html5parser.py:1001(processSpaceCharactersNonPre)
+    14240    0.252    0.000   14.300    0.001 html5parser.py:60(__init__)
+    44058    0.178    0.000   14.027    0.000 client.py:504(_read_next_chunk_size)
+   846150    3.700    0.000   13.871    0.000 __init__.py:490(formatTime)
+  1694560    6.184    0.000   13.191    0.000 __init__.py:367(object_was_parsed)
+    14240    0.850    0.000   13.157    0.001 html5parser.py:77(<listcomp>)
+   423223    1.818    0.000   12.939    0.000 __init__.py:964(flush)
+   726240    2.387    0.000   12.902    0.000 element.py:1634(search_tag)
+   653252   12.018    0.000   12.018    0.000 {method 'search' of '_sre.SRE_Pattern' objects}
+  4115360    5.940    0.000   11.617    0.000 _tokenizer.py:420(tagNameState)
+    18262    0.740    0.000   10.986    0.001 treetaggerwrapper.py:1454(_prepare_text)
+    70254    0.971    0.000   10.147    0.000 series.py:135(__init__)
+   612320    1.323    0.000    9.998    0.000 html5parser.py:423(processEndTag)
+    14240    0.159    0.000    9.912    0.001 _tokenizer.py:34(__init__)
+   854400    1.560    0.000    9.888    0.000 __init__.py:305(new_tag)
+    35127    0.273    0.000    9.882    0.000 internals.py:3848(<listcomp>)
+   142400    0.688    0.000    9.834    0.000 html5parser.py:949(addFormattingElement)
+   128160    0.433    0.000    9.753    0.000 html5parser.py:1090(startTagA)
+    14240    0.140    0.000    9.753    0.001 _inputstream.py:131(HTMLInputStream)
+    31631    9.716    0.000    9.716    0.000 {built-in method io.open}
+    70254    0.643    0.000    9.559    0.000 internals.py:1001(take_nd)
+   423075    9.483    0.000    9.483    0.000 {method 'flush' of '_io.TextIOWrapper' objects}
+    14240    0.156    0.000    9.322    0.001 _inputstream.py:392(__init__)
+   897120    5.773    0.000    8.917    0.000 element.py:806(__init__)
+    24125    8.553    0.000    8.553    0.000 {method 'findall' of '_sre.SRE_Pattern' objects}
+    14240    0.112    0.000    8.195    0.001 _inputstream.py:457(determineEncoding)
+  1637600    2.796    0.000    8.132    0.000 _tokenizer.py:993(attributeValueDoubleQuotedState)
+   512640    5.871    0.000    7.955    0.000 _utils.py:52(__init__)
+  3633778    7.799    0.000    7.923    0.000 element.py:203(setup)
+    14240    0.130    0.000    7.847    0.001 _inputstream.py:569(detectEncodingMeta)
+    14240    0.749    0.000    7.812    0.001 client.py:194(parse_headers)
+  5133518    7.694    0.000    7.694    0.000 {method 'match' of '_sre.SRE_Pattern' objects}
+     9131    0.380    0.000    7.664    0.001 textProcessor.py:102(filter_words_only)
+    14240    0.686    0.000    7.469    0.001 _inputstream.py:696(getEncoding)
+    70254    1.416    0.000    7.404    0.000 algorithms.py:1010(take_nd)
+    71200    0.408    0.000    7.347    0.000 html5parser.py:678(startTagMeta)
+   170880    0.208    0.000    7.347    0.000 html5parser.py:1601(processCharacters)
+   854400    4.489    0.000    7.319    0.000 base.py:165(elementInScope)
+    18262    0.280    0.000    7.145    0.000 threading.py:828(start)
+   897120    2.166    0.000    7.122    0.000 element.py:1701(_matches)
+     9131    0.046    0.000    6.982    0.001 textProcessor.py:261(remove_emojis)
+   186409    0.453    0.000    6.873    0.000 html5parser.py:989(processCharacters)
+    35127    0.405    0.000    6.787    0.000 <frozen importlib._bootstrap>:958(_find_and_load)
+    28480    0.283    0.000    6.348    0.000 _inputstream.py:255(readChunk)
+  1027858    1.188    0.000    6.322    0.000 __init__.py:309(new_string)
+    14240    0.224    0.000    6.271    0.000 parser.py:60(parsestr)
+    99680    0.321    0.000    6.269    0.000 html5parser.py:713(startTagScript)
+   846150    6.097    0.000    6.097    0.000 {built-in method time.strftime}
+  1809769    4.337    0.000    6.058    0.000 base.py:24(__init__)
+    14240    0.185    0.000    6.048    0.000 parser.py:42(parse)
+   196727    5.799    0.000    6.025    0.000 {method 'sub' of '_sre.SRE_Pattern' objects}
+    24304    2.153    0.000    5.891    0.000 treetaggerwrapper.py:1593(_prepare_part)
+   423075    2.862    0.000    5.816    0.000 __init__.py:1369(findCaller)
+  2436329    5.145    0.000    5.486    0.000 html5parser.py:264(normalizeToken)
+   423075    5.185    0.000    5.357    0.000 {method 'seek' of '_io.TextIOWrapper' objects}
+  1042098    2.002    0.000    5.279    0.000 element.py:697(__new__)
+  1466720    3.338    0.000    5.170    0.000 _tokenizer.py:222(emitCurrentToken)
+    35127    0.350    0.000    5.098    0.000 <frozen importlib._bootstrap>:931(_find_and_load_unlocked)
+15921030/15569760    4.042    0.000    5.088    0.000 {built-in method builtins.len}
+    14240    0.079    0.000    5.079    0.000 _inputstream.py:293(characterErrorsUCS4)
+  1708800    2.958    0.000    5.009    0.000 abc.py:178(__instancecheck__)
+    70254    0.213    0.000    4.943    0.000 frame.py:2061(_getitem_column)
+    71200    0.256    0.000    4.848    0.000 html5parser.py:1149(startTagVoidFormatting)
+    70254    0.325    0.000    4.730    0.000 generic.py:1381(_get_item_cache)
+    35127    0.317    0.000    4.657    0.000 internals.py:2745(__init__)
+    35127    0.798    0.000    4.617    0.000 <frozen importlib._bootstrap>:861(_find_spec)
+   598080    3.370    0.000    4.577    0.000 __init__.py:152(_replace_cdata_list_attribute_values)
+    14240    0.067    0.000    4.516    0.000 feedparser.py:173(feed)
+  1409760    2.590    0.000    4.463    0.000 _tokenizer.py:843(beforeAttributeNameState)
+   128160    0.158    0.000    4.452    0.000 html5parser.py:407(processSpaceCharacters)
+   926889    1.252    0.000    4.448    0.000 _html5lib.py:420(__init__)
+   882880    1.557    0.000    4.419    0.000 _html5lib.py:224(__init__)
+    35127    0.466    0.000    4.302    0.000 series.py:2817(_sanitize_array)
+    28480    0.091    0.000    4.155    0.000 feedparser.py:178(_call_parse)
+    14240    0.184    0.000    4.083    0.000 _inputstream.py:723(handleMeta)
+  4911427    3.807    0.000    4.082    0.000 {built-in method builtins.hasattr}
+   737667    1.508    0.000    4.075    0.000 dtypes.py:74(is_dtype)
+   846150    4.074    0.000    4.074    0.000 {built-in method time.localtime}
+    28480    0.554    0.000    4.065    0.000 feedparser.py:218(_parsegen)
+    18262    4.002    0.000    4.002    0.000 {built-in method _thread.start_new_thread}
+  1196160    1.439    0.000    3.858    0.000 _tokenizer.py:1056(afterAttributeValueState)
+   740480    1.275    0.000    3.779    0.000 _tokenizer.py:1012(attributeValueSingleQuotedState)
+   142400    1.337    0.000    3.656    0.000 html5parser.py:1396(endTagFormatting)
+  1352800    2.572    0.000    3.601    0.000 _tokenizer.py:361(tagOpenState)
+    42720    0.117    0.000    3.484    0.000 html5parser.py:673(startTagBaseLinkCommand)
+   612227    1.566    0.000    3.437    0.000 candidate.py:35(regex)
+  2723600    3.283    0.000    3.283    0.000 {method 'translate' of 'str' objects}
+    35127    0.104    0.000    3.279    0.000 <frozen importlib._bootstrap_external>:1149(find_spec)
+    18778    0.191    0.000    3.243    0.000 threading.py:533(wait)
+    35127    0.312    0.000    3.174    0.000 <frozen importlib._bootstrap_external>:1117(_get_spec)
+   846298    0.841    0.000    3.143    0.000 __init__.py:541(formatMessage)
+    56960    1.058    0.000    3.122    0.000 _inputstream.py:792(getAttribute)
+    14240    0.649    0.000    3.088    0.000 html5parser.py:872(__init__)
+    56960    0.205    0.000    3.082    0.000 html5parser.py:1169(startTagHr)
+ 15108793    3.060    0.000    3.060    0.000 {method 'append' of 'list' objects}
+    31586    2.978    0.000    2.978    0.000 {built-in method _pickle.dump}
+    18565    0.215    0.000    2.957    0.000 threading.py:263(wait)
+  1326898    2.151    0.000    2.941    0.000 element.py:296(_last_descendant)
+   423075    1.054    0.000    2.917    0.000 posixpath.py:119(splitext)
+   598080    1.680    0.000    2.856    0.000 _tokenizer.py:567(scriptDataEndTagNameState)
+  2292640    1.134    0.000    2.828    0.000 {built-in method builtins.next}
+    14243    2.826    0.000    2.826    0.000 {method 'connect' of '_socket.socket' objects}
+        3    0.163    0.054    2.717    0.906 shutil.py:90(copyfile)
+    73048    0.266    0.000    2.715    0.000 treetaggerwrapper.py:1772(build_with_callable)
+   213600    0.794    0.000    2.699    0.000 html5parser.py:1337(endTagBlock)
+   423147    1.443    0.000    2.688    0.000 posixpath.py:142(basename)
+    94806    2.661    0.000    2.661    0.000 {method 'acquire' of '_thread.lock' objects}
+    70254    0.602    0.000    2.660    0.000 cast.py:227(_maybe_promote)
+    35127    0.783    0.000    2.631    0.000 <frozen importlib._bootstrap_external>:1233(find_spec)
+   846298    0.896    0.000    2.605    0.000 __init__.py:535(usesTime)
+    35127    0.210    0.000    2.591    0.000 series.py:2834(_try_cast)
+    35127    1.055    0.000    2.555    0.000 internals.py:2841(_rebuild_blknos_and_blklocs)
+    42720    0.095    0.000    2.537    0.000 html5parser.py:1005(startTagProcessInHead)
+   100969    0.390    0.000    2.532    0.000 element.py:232(replace_with)
+   351270    0.375    0.000    2.531    0.000 common.py:102(is_categorical_dtype)
+        3    0.047    0.016    2.514    0.838 shutil.py:70(copyfileobj)
+     9131    0.127    0.000    2.511    0.000 textProcessor.py:233(remove_candidates_names)
+  1196160    1.541    0.000    2.449    0.000 _tokenizer.py:959(beforeAttributeValueState)
+   251084    2.367    0.000    2.367    0.000 {method 'split' of '_sre.SRE_Pattern' objects}
+   846298    2.302    0.000    2.302    0.000 __init__.py:385(format)
+    56960    0.109    0.000    2.279    0.000 html5parser.py:1296(startTagOther)
+    70254    0.442    0.000    2.268    0.000 common.py:320(_coerce_to_dtype)
+    90422    0.380    0.000    2.248    0.000 treetaggerwrapper.py:2001(split_on_regexp)
+   140508    0.694    0.000    2.222    0.000 internals.py:2649(make_block)
+   245889    0.269    0.000    2.173    0.000 common.py:69(is_datetimetz)
+    35127    0.326    0.000    2.130    0.000 base.py:1506(take)
+    35127    0.223    0.000    2.125    0.000 internals.py:3536(get)
+   351270    0.266    0.000    2.094    0.000 common.py:89(is_datetime64tz_dtype)
+  3417600    2.051    0.000    2.051    0.000 _weakrefset.py:70(__contains__)
+  1523680    2.048    0.000    2.048    0.000 _utils.py:67(__getitem__)
+   756859    1.343    0.000    2.010    0.000 __init__.py:1537(isEnabledFor)
+   256320    0.633    0.000    1.989    0.000 _tokenizer.py:328(scriptDataState)
+   113284    0.130    0.000    1.989    0.000 textProcessor.py:250(is_correctly_spelled)
+    35127    0.187    0.000    1.976    0.000 frame.py:2393(_box_item_values)
+    14240    0.165    0.000    1.954    0.000 html5parser.py:433(processDoctype)
+   105381    0.380    0.000    1.869    0.000 internals.py:208(make_block_same_class)
+  4095156    1.863    0.000    1.863    0.000 {method 'get' of 'dict' objects}
+   113284    1.858    0.000    1.858    0.000 {method 'spell' of 'HunSpell' objects}
+    35127    0.193    0.000    1.807    0.000 indexing.py:1806(check_bool_indexer)
+    35127    0.122    0.000    1.766    0.000 generic.py:131(_validate_dtype)
+    35127    0.866    0.000    1.727    0.000 indexing.py:1857(maybe_convert_indices)
+   512640    0.834    0.000    1.713    0.000 _inputstream.py:663(matchBytes)
+   846298    0.927    0.000    1.709    0.000 __init__.py:382(usesTime)
+   175635    0.235    0.000    1.665    0.000 {method 'any' of 'numpy.ndarray' objects}
+   140717    0.301    0.000    1.658    0.000 textProcessor.py:153(is_word)
+    14243    0.155    0.000    1.637    0.000 request.py:326(__init__)
+   423075    0.878    0.000    1.629    0.000 posixpath.py:50(normcase)
+  1495200    1.070    0.000    1.617    0.000 __init__.py:262(set_up_substitutions)
+281016/245889    1.102    0.000    1.598    0.000 {built-in method numpy.core.multiarray.array}
+    14240    0.646    0.000    1.576    0.000 feedparser.py:471(_parse_headers)
+   423075    1.190    0.000    1.565    0.000 genericpath.py:117(_splitext)
+   846446    0.881    0.000    1.538    0.000 __init__.py:802(acquire)
+    14240    0.072    0.000    1.527    0.000 _html5lib.py:112(insertDoctype)
+   210762    0.809    0.000    1.499    0.000 generic.py:2746(__setattr__)
+    35127    0.115    0.000    1.490    0.000 frame.py:2400(_box_col_values)
+   968320    0.605    0.000    1.460    0.000 element.py:1598(_normalize_search_value)
+  2662880    1.457    0.000    1.457    0.000 _html5lib.py:411(getNameTuple)
+   612227    0.409    0.000    1.430    0.000 re.py:231(compile)
+   175635    0.133    0.000    1.430    0.000 _methods.py:37(_any)
+    25772    1.422    0.000    1.422    0.000 {method 'write' of '_io.BufferedWriter' objects}
+    28480    0.370    0.000    1.408    0.000 _inputstream.py:874(parse)
+   702540    0.586    0.000    1.405    0.000 generic.py:7(_check)
+    35127    0.380    0.000    1.394    0.000 internals.py:3565(iget)
+  4356589    1.387    0.000    1.387    0.000 {method 'join' of 'str' objects}
+    35127    0.148    0.000    1.374    0.000 series.py:252(from_array)
+    70254    0.397    0.000    1.364    0.000 internals.py:4031(__init__)
+   140508    0.544    0.000    1.363    0.000 internals.py:2786(shape)
+   484160    1.003    0.000    1.354    0.000 _tokenizer.py:396(closeTagOpenState)
+    35127    0.233    0.000    1.350    0.000 base.py:1643(equals)
+    14240    0.047    0.000    1.301    0.000 html5parser.py:1156(startTagInput)
+   175635    1.297    0.000    1.297    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+  1161144    1.268    0.000    1.268    0.000 {built-in method __new__ of type object at 0x1042c2650}
+   846298    1.256    0.000    1.256    0.000 __init__.py:324(getMessage)
+   423075    1.243    0.000    1.243    0.000 {method 'tell' of '_io.TextIOWrapper' objects}
+   105381    0.087    0.000    1.240    0.000 numeric.py:463(asarray)
+    35127    0.463    0.000    1.236    0.000 cast.py:765(_possibly_cast_to_datetime)
+   100969    0.861    0.000    1.233    0.000 element.py:310(insert)
+    28480    0.212    0.000    1.220    0.000 base.py:153(reset)
+    14240    0.047    0.000    1.192    0.000 html5parser.py:1045(startTagForm)
+    35127    0.183    0.000    1.188    0.000 range.py:249(_shallow_copy)
+  1011040    0.998    0.000    1.175    0.000 _inputstream.py:599(__next__)
+  5668809    1.171    0.000    1.171    0.000 element.py:1010(__bool__)
+    85411    1.165    0.000    1.165    0.000 {method 'read' of '_io.BufferedReader' objects}
+   846446    0.834    0.000    1.151    0.000 __init__.py:809(release)
+  1124960    0.954    0.000    1.137    0.000 _inputstream.py:625(getPosition)
+    70254    0.435    0.000    1.137    0.000 numeric.py:2686(seterr)
+   128160    0.444    0.000    1.103    0.000 message.py:462(get)
+    14240    0.047    0.000    1.079    0.000 html5parser.py:1216(startTagTextarea)
+   541120    0.668    0.000    1.078    0.000 _tokenizer.py:1612(doctypeSystemIdentifierDoubleQuotedState)
+    56960    0.235    0.000    1.074    0.000 message.py:564(get_content_type)
+   423075    0.591    0.000    1.069    0.000 __init__.py:152(<lambda>)
+   140508    0.540    0.000    1.065    0.000 internals.py:96(__init__)
+   935588    1.056    0.000    1.056    0.000 {built-in method builtins.getattr}
+    35127    0.327    0.000    1.039    0.000 internals.py:2966(_verify_integrity)
+    42720    0.293    0.000    1.024    0.000 __init__.py:295(reset)
+   612227    1.021    0.000    1.021    0.000 re.py:286(_compile)
+  3457105    1.012    0.000    1.012    0.000 {method 'lower' of 'str' objects}
+    14240    0.081    0.000    1.005    0.000 element.py:1029(__getattr__)
+   105381    0.154    0.000    0.989    0.000 common.py:64(is_categorical)
+    35127    0.181    0.000    0.983    0.000 base.py:371(_shallow_copy)
+   898409    0.936    0.000    0.978    0.000 base.py:187(reconstructActiveFormattingElements)
+    14240    0.042    0.000    0.961    0.000 html5parser.py:575(processStartTag)
+    28480    0.115    0.000    0.961    0.000 _html5lib.py:108(documentClass)
+  1340503    0.944    0.000    0.944    0.000 {method 'rfind' of 'str' objects}
+   140717    0.184    0.000    0.937    0.000 regex.py:343(compile)
+    14243    0.030    0.000    0.933    0.000 client.py:400(_close_conn)
+    35127    0.172    0.000    0.931    0.000 <frozen importlib._bootstrap>:146(__enter__)
+    35127    0.118    0.000    0.921    0.000 common.py:301(is_extension_type)
+    14240    0.066    0.000    0.920    0.000 html5parser.py:556(insertHtmlElement)
+    14243    0.156    0.000    0.903    0.000 {method 'close' of '_io.BufferedReader' objects}
+    14243    0.093    0.000    0.902    0.000 request.py:308(request_host)
+    28480    0.277    0.000    0.897    0.000 element.py:1571(__init__)
+    70254    0.391    0.000    0.896    0.000 internals.py:1811(__init__)
+  1025322    0.885    0.000    0.885    0.000 {method 'find' of 'str' objects}
+    18262    0.321    0.000    0.880    0.000 threading.py:757(__init__)
+   185120    0.524    0.000    0.869    0.000 _tokenizer.py:464(rcdataEndTagNameState)
+    70254    0.214    0.000    0.852    0.000 function.py:37(__call__)
+    35127    0.063    0.000    0.851    0.000 <frozen importlib._bootstrap_external>:75(_path_stat)
+    14240    0.058    0.000    0.837    0.000 base.py:252(insertRoot)
+   313280    0.827    0.000    0.827    0.000 base.py:359(generateImpliedEndTags)
+    14240    0.033    0.000    0.821    0.000 html5parser.py:1103(startTagFormatting)
+   421524    0.218    0.000    0.819    0.000 internals.py:2788(<genexpr>)
+   846150    0.816    0.000    0.816    0.000 {method 'write' of '_io.TextIOWrapper' objects}
+    70254    0.298    0.000    0.806    0.000 dtypes.py:221(construct_from_string)
+  2634546    0.804    0.000    0.804    0.000 {method 'end' of '_sre.SRE_Match' objects}
+    14240    0.052    0.000    0.799    0.000 html5parser.py:1082(startTagHeading)
+    14243    0.172    0.000    0.794    0.000 client.py:227(__init__)
+    35394    0.793    0.000    0.793    0.000 {built-in method posix.stat}
+    18000    0.039    0.000    0.792    0.000 treetaggerwrapper.py:1984(split_url)
+    14243    0.788    0.000    0.788    0.000 socket.py:139(__init__)
+    14240    0.052    0.000    0.784    0.000 _html5lib.py:88(create_treebuilder)
+   370240    0.505    0.000    0.784    0.000 _tokenizer.py:1459(doctypePublicIdentifierDoubleQuotedState)
+    14240    0.244    0.000    0.782    0.000 html5parser.py:1627(__init__)
+   175635    0.291    0.000    0.781    0.000 <frozen importlib._bootstrap_external>:57(_path_join)
+    14240    0.075    0.000    0.764    0.000 feedparser.py:184(close)
+   459599    0.632    0.000    0.763    0.000 threading.py:1226(current_thread)
+    56972    0.418    0.000    0.756    0.000 client.py:1195(putheader)
+   140717    0.663    0.000    0.753    0.000 regex.py:426(_compile)
+    42720    0.071    0.000    0.750    0.000 message.py:588(get_content_maintype)
+    14243    0.148    0.000    0.747    0.000 socket.py:649(close)
+    14243    0.133    0.000    0.743    0.000 parse.py:351(urlparse)
+    14240    0.103    0.000    0.742    0.000 html5parser.py:94(reset)
+   105381    0.379    0.000    0.742    0.000 base.py:1392(__contains__)
+  1210400    0.738    0.000    0.738    0.000 {method 'items' of 'collections.OrderedDict' objects}
+    14240    0.108    0.000    0.732    0.000 _html5lib.py:100(__init__)
+    24142    0.026    0.000    0.731    0.000 treetaggerwrapper.py:1961(split_dns)
+   316143    0.522    0.000    0.731    0.000 range.py:458(__len__)
+   423075    0.488    0.000    0.728    0.000 __init__.py:120(getLevelName)
+   210762    0.538    0.000    0.726    0.000 common.py:357(_get_dtype_type)
+    14240    0.245    0.000    0.712    0.000 html5parser.py:2052(__init__)
+    35127    0.165    0.000    0.711    0.000 numeric.py:3088(__exit__)
+    28480    0.035    0.000    0.707    0.000 _inputstream.py:759(handlePossibleStartTag)
+    14240    0.180    0.000    0.702    0.000 html5parser.py:636(__init__)
+    35127    0.110    0.000    0.701    0.000 numeric.py:3083(__enter__)
+  1395520    0.627    0.000    0.696    0.000 element.py:1309(descendants)
+   897120    0.692    0.000    0.692    0.000 __init__.py:108(can_be_empty_element)
+    71200    0.164    0.000    0.688    0.000 _inputstream.py:908(lookupEncoding)
+    70254    0.119    0.000    0.677    0.000 series.py:391(get_values)
+   846298    0.676    0.000    0.676    0.000 __init__.py:698(filter)
+    35127    0.672    0.000    0.672    0.000 {pandas.algos.take_2d_axis0_int64_int64}
+    28480    0.116    0.000    0.672    0.000 _inputstream.py:766(handlePossibleTag)
+    14240    0.025    0.000    0.672    0.000 html5parser.py:699(startTagTitle)
+    14240    0.110    0.000    0.670    0.000 _inputstream.py:164(__init__)
+    14240    0.272    0.000    0.669    0.000 html5parser.py:2216(__init__)
+   756859    0.667    0.000    0.667    0.000 __init__.py:1523(getEffectiveLevel)
+   846446    0.657    0.000    0.657    0.000 {method 'acquire' of '_thread.RLock' objects}
+    14240    0.046    0.000    0.657    0.000 html5parser.py:618(startTagHead)
+   140508    0.205    0.000    0.650    0.000 series.py:333(dtype)
+   100969    0.422    0.000    0.648    0.000 element.py:267(extract)
+  1269297    0.647    0.000    0.647    0.000 {built-in method posix.fspath}
+    14240    0.052    0.000    0.647    0.000 html5parser.py:333(parseRCDataRawtext)
+    14240    0.192    0.000    0.644    0.000 html5parser.py:1954(__init__)
+   128160    0.339    0.000    0.643    0.000 _policybase.py:293(header_source_parse)
+    70254    0.233    0.000    0.639    0.000 validators.py:129(validate_kwargs)
+    70254    0.150    0.000    0.634    0.000 common.py:54(is_object_dtype)
+    14243    0.412    0.000    0.621    0.000 socket.py:218(makefile)
+    14240    0.037    0.000    0.621    0.000 html5parser.py:831(startTagBody)
+    14240    0.036    0.000    0.617    0.000 base.py:146(__init__)
+   140508    0.610    0.000    0.610    0.000 {built-in method numpy.core.multiarray.empty}
+    71200    0.314    0.000    0.607    0.000 html5parser.py:1578(endTagOther)
+   637485    0.605    0.000    0.605    0.000 {method 'decode' of 'bytes' objects}
+  1210400    0.600    0.000    0.600    0.000 element.py:1014(__setitem__)
+    14243    0.040    0.000    0.599    0.000 socket.py:403(_decref_socketios)
+    14240    0.179    0.000    0.591    0.000 html5parser.py:1817(__init__)
+    28486    0.075    0.000    0.591    0.000 socket.py:413(close)
+    14240    0.180    0.000    0.590    0.000 html5parser.py:2141(__init__)
+   980097    0.590    0.000    0.590    0.000 {built-in method time.time}
+   423147    0.371    0.000    0.581    0.000 posixpath.py:39(_get_sep)
+  2578729    0.580    0.000    0.580    0.000 {method 'popleft' of 'collections.deque' objects}
+    28480    0.247    0.000    0.575    0.000 codecs.py:450(read)
+   598080    0.387    0.000    0.575    0.000 element.py:982(get)
+    35127    0.186    0.000    0.574    0.000 common.py:194(is_bool_indexer)
+      148    0.001    0.000    0.573    0.004 __init__.py:1320(error)
+    14240    0.066    0.000    0.564    0.000 html5parser.py:976(processSpaceCharactersDropNewline)
+    14243    0.107    0.000    0.560    0.000 request.py:350(full_url)
+    70254    0.192    0.000    0.559    0.000 range.py:286(equals)
+    70254    0.215    0.000    0.558    0.000 internals.py:4177(get_values)
+    24140    0.030    0.000    0.552    0.000 treetaggerwrapper.py:1996(split_email)
+    14240    0.149    0.000    0.543    0.000 html5parser.py:803(__init__)
+    14240    0.275    0.000    0.540    0.000 feedparser.py:139(__init__)
+   170880    0.209    0.000    0.540    0.000 feedparser.py:128(__next__)
+  2454894    0.538    0.000    0.538    0.000 {method 'append' of 'collections.deque' objects}
+   487118    0.538    0.000    0.538    0.000 {method 'split' of 'str' objects}
+    70254    0.106    0.000    0.529    0.000 common.py:98(is_period_dtype)
+   327520    0.529    0.000    0.529    0.000 html5parser.py:389(__init__)
+    35127    0.253    0.000    0.527    0.000 frame.py:252(__init__)
+    35127    0.164    0.000    0.524    0.000 internals.py:3257(_consolidate_check)
+    14243    0.241    0.000    0.521    0.000 parse.py:384(urlsplit)
+    14240    0.167    0.000    0.520    0.000 feedparser.py:101(push)
+    14240    0.199    0.000    0.519    0.000 html5parser.py:2518(__init__)
+    14243    0.515    0.000    0.515    0.000 socket.py:409(_real_close)
+      516    0.006    0.000    0.509    0.001 iostream.py:312(flush)
+    70254    0.318    0.000    0.508    0.000 dtypes.py:170(__new__)
+   142400    0.317    0.000    0.507    0.000 _tokenizer.py:542(scriptDataLessThanSignState)
+    35127    0.286    0.000    0.505    0.000 <frozen importlib._bootstrap>:159(_get_module_lock)
+    14240    0.163    0.000    0.503    0.000 html5parser.py:590(__init__)
+      368    0.001    0.000    0.500    0.001 ansitowin32.py:39(write)
+      368    0.001    0.000    0.499    0.001 ansitowin32.py:139(write)
+      368    0.006    0.000    0.498    0.001 ansitowin32.py:156(write_and_convert)
+      664    0.004    0.000    0.487    0.001 ansitowin32.py:172(write_plain_text)
+   175635    0.257    0.000    0.487    0.000 {pandas.lib.values_from_object}
+   113920    0.102    0.000    0.485    0.000 _policybase.py:311(header_fetch_parse)
+   105381    0.267    0.000    0.484    0.000 series.py:322(name)
+    35127    0.482    0.000    0.482    0.000 {pandas.algos.take_2d_axis1_object_object}
+    35127    0.081    0.000    0.480    0.000 generic.py:2795(_consolidate_inplace)
+   423075    0.477    0.000    0.477    0.000 {built-in method sys._getframe}
+    56960    0.365    0.000    0.476    0.000 _inputstream.py:652(skipUntil)
+    70254    0.136    0.000    0.473    0.000 base.py:2104(get_loc)
+    14243    0.127    0.000    0.473    0.000 client.py:1071(putrequest)
+    14240    0.052    0.000    0.471    0.000 base.py:270(createElement)
+   270560    0.465    0.000    0.465    0.000 base.py:238(elementInActiveFormattingElements)
+    14240    0.178    0.000    0.464    0.000 html5parser.py:2316(__init__)
+    42720    0.152    0.000    0.459    0.000 __init__.py:61(lookup)
+    35127    0.225    0.000    0.449    0.000 base.py:334(_simple_new)
+    59636    0.219    0.000    0.446    0.000 client.py:596(_safe_read)
+    31586    0.446    0.000    0.446    0.000 processedTweet.py:5(__init__)
+   140508    0.238    0.000    0.445    0.000 internals.py:4147(dtype)
+    58253    0.180    0.000    0.444    0.000 _tokenizer.py:276(rcdataState)
+    70254    0.415    0.000    0.440    0.000 numeric.py:2786(geterr)
+    14240    0.141    0.000    0.439    0.000 html5parser.py:739(__init__)
+    28480    0.205    0.000    0.431    0.000 _inputstream.py:434(reset)
+    70254    0.247    0.000    0.423    0.000 dtypes.py:347(is_dtype)
+   140717    0.421    0.000    0.421    0.000 {method 'match' of '_regex.Pattern' objects}
+    70254    0.065    0.000    0.416    0.000 common.py:59(is_sparse)
+   142400    0.257    0.000    0.414    0.000 _inputstream.py:640(skip)
+    70254    0.302    0.000    0.407    0.000 series.py:286(_set_axis)
+    14243    0.404    0.000    0.404    0.000 {method 'sendall' of '_socket.socket' objects}
+   175635    0.253    0.000    0.403    0.000 <frozen importlib._bootstrap_external>:59(<listcomp>)
+   105381    0.400    0.000    0.400    0.000 generic.py:114(__init__)
+    35127    0.107    0.000    0.400    0.000 generic.py:2785(_protect_consolidate)
+    14240    0.205    0.000    0.393    0.000 html5parser.py:2470(__init__)
+   175635    0.153    0.000    0.390    0.000 {built-in method builtins.hash}
+    14240    0.151    0.000    0.388    0.000 html5parser.py:1889(__init__)
+    70254    0.119    0.000    0.387    0.000 generic.py:353(_get_axis)
+   113920    0.169    0.000    0.383    0.000 _policybase.py:281(_sanitize_header)
+   423075    0.382    0.000    0.382    0.000 threading.py:1076(name)
+    35127    0.053    0.000    0.372    0.000 series.py:473(__array__)
+   140508    0.370    0.000    0.370    0.000 generic.py:2730(__getattr__)
+   142400    0.310    0.000    0.358    0.000 base.py:99(append)
+   952928    0.357    0.000    0.357    0.000 {built-in method _thread.get_ident}
+    18778    0.080    0.000    0.357    0.000 threading.py:498(__init__)
+    18262    0.123    0.000    0.357    0.000 threading.py:1024(join)
+    14240    0.145    0.000    0.354    0.000 html5parser.py:2575(__init__)
+   738123    0.353    0.000    0.353    0.000 {method 'strip' of 'str' objects}
+    35127    0.112    0.000    0.345    0.000 internals.py:3258(<listcomp>)
+    14388    0.056    0.000    0.344    0.000 parse.py:777(quote_plus)
+    18262    0.118    0.000    0.343    0.000 treetaggerwrapper.py:1821(split_sgml)
+    14243    0.098    0.000    0.342    0.000 request.py:381(_parse)
+   201938    0.341    0.000    0.341    0.000 element.py:972(index)
+    70254    0.215    0.000    0.339    0.000 algorithms.py:977(_get_take_nd_function)
+   840953    0.338    0.000    0.338    0.000 {method 'pop' of 'list' objects}
+    18000    0.034    0.000    0.335    0.000 treetaggerwrapper.py:1896(blank_to_space)
+   170880    0.296    0.000    0.331    0.000 feedparser.py:78(readline)
+    42720    0.138    0.000    0.326    0.000 _inputstream.py:224(_position)
+   140508    0.272    0.000    0.323    0.000 internals.py:216(mgr_locs)
+    70254    0.112    0.000    0.321    0.000 common.py:81(is_datetime64_dtype)
+    35127    0.238    0.000    0.320    0.000 base.py:606(_get_attributes_dict)
+   846446    0.317    0.000    0.317    0.000 {method 'release' of '_thread.RLock' objects}
+    14240    0.091    0.000    0.313    0.000 html5parser.py:1381(endTagHeading)
+    35127    0.303    0.000    0.303    0.000 {method 'nonzero' of 'numpy.ndarray' objects}
+    35127    0.103    0.000    0.303    0.000 base.py:826(item)
+    99680    0.133    0.000    0.303    0.000 _inputstream.py:635(getCurrentByte)
+    28486    0.118    0.000    0.299    0.000 socket.py:97(_intenum_converter)
+    24140    0.029    0.000    0.296    0.000 treetaggerwrapper.py:1944(split_ip)
+   105381    0.178    0.000    0.294    0.000 base.py:522(values)
+    70254    0.293    0.000    0.293    0.000 validators.py:113(_check_for_invalid_keys)
+    14240    0.037    0.000    0.290    0.000 cp1252.py:14(decode)
+   926889    0.288    0.000    0.288    0.000 base.py:278(_getInsertFromTable)
+    14240    0.058    0.000    0.284    0.000 client.py:370(_check_close)
+    14243    0.141    0.000    0.283    0.000 request.py:1238(do_request_)
+    35127    0.036    0.000    0.283    0.000 numeric.py:534(asanyarray)
+    14388    0.067    0.000    0.280    0.000 parse.py:733(quote)
+    14240    0.174    0.000    0.279    0.000 _tokenizer.py:1109(markupDeclarationOpenState)
+    35127    0.110    0.000    0.274    0.000 generic.py:2798(f)
+    99680    0.197    0.000    0.272    0.000 _tokenizer.py:556(scriptDataEndTagOpenState)
+   281016    0.208    0.000    0.271    0.000 base.py:491(__len__)
+    14240    0.217    0.000    0.271    0.000 __init__.py:42(lookup)
+   321606    0.270    0.000    0.270    0.000 {method 'startswith' of 'str' objects}
+    42720    0.161    0.000    0.270    0.000 _inputstream.py:674(jumpTo)
+    70254    0.170    0.000    0.269    0.000 series.py:326(name)
+    14240    0.091    0.000    0.267    0.000 html5parser.py:2611(__init__)
+    14240    0.106    0.000    0.266    0.000 html5parser.py:1593(__init__)
+    35127    0.031    0.000    0.266    0.000 series.py:463(__len__)
+    35127    0.068    0.000    0.265    0.000 <frozen importlib._bootstrap>:153(__exit__)
+   341941    0.265    0.000    0.265    0.000 {method 'encode' of 'str' objects}
+    14240    0.117    0.000    0.264    0.000 html5parser.py:2649(__init__)
+    35127    0.103    0.000    0.262    0.000 generic.py:357(_get_block_manager_axis)
+    76094    0.261    0.000    0.261    0.000 {method 'format' of 'str' objects}
+   175635    0.259    0.000    0.259    0.000 {method 'view' of 'numpy.ndarray' objects}
+    70254    0.121    0.000    0.257    0.000 common.py:135(is_dtype_equal)
+    14240    0.253    0.000    0.253    0.000 {built-in method _codecs.charmap_decode}
+    14240    0.106    0.000    0.250    0.000 element.py:786(for_name_and_ids)
+    18778    0.247    0.000    0.247    0.000 threading.py:215(__init__)
+   702540    0.245    0.000    0.245    0.000 {built-in method builtins.issubclass}
+    14240    0.048    0.000    0.242    0.000 _inputstream.py:519(changeEncoding)
+   423075    0.238    0.000    0.238    0.000 process.py:137(name)
+    35127    0.108    0.000    0.237    0.000 generic.py:829(__hash__)
+   105381    0.234    0.000    0.234    0.000 dtypes.py:132(construct_from_string)
+    70254    0.090    0.000    0.233    0.000 internals.py:163(to_dense)
+    70254    0.205    0.000    0.233    0.000 internals.py:301(ftype)
+    35127    0.217    0.000    0.231    0.000 <frozen importlib._bootstrap>:77(acquire)
+    42720    0.103    0.000    0.230    0.000 _inputstream.py:588(__new__)
+    70254    0.073    0.000    0.230    0.000 base.py:527(get_values)
+    35127    0.130    0.000    0.229    0.000 missing.py:245(array_equivalent)
+    28480    0.224    0.000    0.224    0.000 {method 'readlines' of '_io._IOBase' objects}
+   479430    0.223    0.000    0.223    0.000 {method 'rstrip' of 'str' objects}
+    70254    0.223    0.000    0.223    0.000 {method 'get_loc' of 'pandas.index.IndexEngine' objects}
+    14240    0.092    0.000    0.222    0.000 _inputstream.py:691(__init__)
+   423443    0.219    0.000    0.219    0.000 {built-in method posix.getpid}
+   140508    0.156    0.000    0.219    0.000 base.py:3637(_ensure_index)
+    56960    0.143    0.000    0.218    0.000 message.py:29(_splitparam)
+    35127    0.149    0.000    0.218    0.000 <frozen importlib._bootstrap>:57(__init__)
+    14243    0.102    0.000    0.217    0.000 client.py:405(close)
+    35127    0.138    0.000    0.217    0.000 generic.py:1503(_set_is_copy)
+    35127    0.094    0.000    0.216    0.000 generic.py:1395(_set_as_cached)
+   512640    0.213    0.000    0.213    0.000 {method 'startswith' of 'bytes' objects}
+    70254    0.150    0.000    0.212    0.000 generic.py:340(_get_axis_name)
+    35127    0.069    0.000    0.210    0.000 {built-in method builtins.sum}
+   316143    0.209    0.000    0.209    0.000 {built-in method builtins.max}
+    56960    0.125    0.000    0.209    0.000 _tokenizer.py:1334(doctypeNameState)
+    70254    0.057    0.000    0.206    0.000 <frozen importlib._bootstrap>:989(_handle_fromlist)
+    14240    0.166    0.000    0.206    0.000 _inputstream.py:535(detectBOM)
+    99680    0.164    0.000    0.203    0.000 html5parser.py:1614(endTagScript)
+    75499    0.202    0.000    0.202    0.000 {method 'replace' of 'str' objects}
+    35127    0.183    0.000    0.197    0.000 <frozen importlib._bootstrap>:102(release)
+    70254    0.197    0.000    0.197    0.000 {built-in method numpy.core.multiarray.arange}
+   216291    0.196    0.000    0.196    0.000 {method 'join' of 'bytes' objects}
+    42720    0.093    0.000    0.192    0.000 __init__.py:35(ascii_lower)
+    35127    0.046    0.000    0.191    0.000 missing.py:27(isnull)
+    14243    0.123    0.000    0.189    0.000 client.py:836(__init__)
+    18262    0.129    0.000    0.186    0.000 treetaggerwrapper.py:1590(<listcomp>)
+    99680    0.185    0.000    0.185    0.000 {method 'count' of 'str' objects}
+    14243    0.094    0.000    0.182    0.000 parse.py:794(quote_from_bytes)
+    14240    0.182    0.000    0.182    0.000 feedparser.py:53(__init__)
+    28486    0.099    0.000    0.181    0.000 enum.py:265(__call__)
+   423075    0.180    0.000    0.180    0.000 process.py:35(current_process)
+    20546    0.065    0.000    0.178    0.000 threading.py:1062(_wait_for_tstate_lock)
+    28480    0.110    0.000    0.172    0.000 _inputstream.py:438(openStream)
+   423075    0.172    0.000    0.172    0.000 codecs.py:213(setstate)
+   105381    0.127    0.000    0.171    0.000 common.py:447(_apply_if_callable)
+   186037    0.171    0.000    0.171    0.000 {built-in method builtins.min}
+    35127    0.058    0.000    0.168    0.000 series.py:353(values)
+    70254    0.167    0.000    0.167    0.000 {built-in method numpy.core.umath.seterrobj}
+    14240    0.079    0.000    0.166    0.000 feedparser.py:70(close)
+   105381    0.166    0.000    0.166    0.000 {pandas.lib.isscalar}
+    28480    0.054    0.000    0.165    0.000 _tokenizer.py:1076(selfClosingStartTagState)
+    35127    0.086    0.000    0.164    0.000 internals.py:2746(<listcomp>)
+   113920    0.097    0.000    0.164    0.000 utils.py:51(_has_surrogates)
+   281016    0.163    0.000    0.163    0.000 internals.py:297(dtype)
+    35127    0.097    0.000    0.161    0.000 common.py:282(is_float_dtype)
+    28480    0.161    0.000    0.161    0.000 codecs.py:422(__init__)
+    35127    0.118    0.000    0.160    0.000 generic.py:327(_get_axis_number)
+    14240    0.046    0.000    0.159    0.000 html5parser.py:1313(endTagBody)
+    14240    0.065    0.000    0.158    0.000 html5parser.py:1351(endTagForm)
+    35127    0.056    0.000    0.158    0.000 internals.py:2951(__len__)
+    14240    0.092    0.000    0.157    0.000 _tokenizer.py:1359(afterDoctypeNameState)
+        3    0.002    0.001    0.157    0.052 handlers.py:154(doRollover)
+   598080    0.156    0.000    0.156    0.000 {method 'keys' of 'collections.OrderedDict' objects}
+   128160    0.121    0.000    0.154    0.000 message.py:479(set_raw)
+   351270    0.154    0.000    0.154    0.000 internals.py:179(mgr_locs)
+   254286    0.153    0.000    0.153    0.000 treetaggerwrapper.py:716(__init__)
+   245889    0.151    0.000    0.151    0.000 internals.py:4077(_block)
+    48608    0.151    0.000    0.151    0.000 re.py:324(_subx)
+   175635    0.149    0.000    0.149    0.000 <frozen importlib._bootstrap>:208(_verbose_message)
+     1768    0.076    0.000    0.147    0.000 iostream.py:180(schedule)
+   140508    0.100    0.000    0.146    0.000 <frozen importlib._bootstrap>:834(__enter__)
+    35127    0.125    0.000    0.145    0.000 numeric.py:3079(__init__)
+    35127    0.082    0.000    0.145    0.000 missing.py:48(_isnull_new)
+    14243    0.053    0.000    0.145    0.000 parse.py:918(splittype)
+   140508    0.095    0.000    0.145    0.000 <frozen importlib._bootstrap>:838(__exit__)
+    35127    0.100    0.000    0.143    0.000 <frozen importlib._bootstrap>:402(parent)
+   355066    0.142    0.000    0.142    0.000 {method 'items' of 'dict' objects}
+    14240    0.095    0.000    0.141    0.000 feedparser.py:197(_new_message)
+   105381    0.090    0.000    0.141    0.000 internals.py:2968(<genexpr>)
+   156640    0.141    0.000    0.141    0.000 {method 'index' of 'list' objects}
+    14240    0.042    0.000    0.140    0.000 html5parser.py:256(parseError)
+    14240    0.037    0.000    0.137    0.000 html5parser.py:615(startTagHtml)
+    14243    0.137    0.000    0.137    0.000 socket.py:560(__init__)
+    35127    0.096    0.000    0.136    0.000 <frozen importlib._bootstrap>:852(_find_spec_legacy)
+    14240    0.048    0.000    0.136    0.000 element.py:74(__new__)
+    28480    0.136    0.000    0.136    0.000 element.py:1753(__init__)
+   140508    0.099    0.000    0.136    0.000 common.py:333(_get_dtype)
+    14243    0.090    0.000    0.133    0.000 idna.py:147(encode)
+   587201    0.128    0.000    0.128    0.000 {method 'extend' of 'list' objects}
+    42720    0.113    0.000    0.127    0.000 __init__.py:328(pushTag)
+     9131    0.088    0.000    0.126    0.000 textProcessor.py:218(remove_user_mentions_hashtags)
+    28480    0.123    0.000    0.123    0.000 message.py:120(__init__)
+    12716    0.072    0.000    0.123    0.000 parse.py:376(_splitnetloc)
+    35127    0.087    0.000    0.122    0.000 indexing.py:1769(convert_to_index_sliceable)
+   107597    0.121    0.000    0.121    0.000 {built-in method _thread.allocate_lock}
+   140508    0.120    0.000    0.120    0.000 {built-in method numpy.core.umath.geterrobj}
+    35127    0.117    0.000    0.117    0.000 cast.py:660(_possibly_castable)
+    14243    0.054    0.000    0.115    0.000 {function HTTPResponse.close at 0x1062ab1e0}
+    70254    0.071    0.000    0.111    0.000 internals.py:3529(_consolidate_inplace)
+    35127    0.076    0.000    0.111    0.000 internals.py:4171(external_values)
+    35127    0.099    0.000    0.109    0.000 base.py:1406(__getitem__)
+    14240    0.022    0.000    0.109    0.000 _inputstream.py:789(handleOther)
+    35127    0.063    0.000    0.108    0.000 __init__.py:175(iteritems)
+        3    0.106    0.035    0.106    0.035 {method 'close' of '_io.TextIOWrapper' objects}
+    35127    0.105    0.000    0.105    0.000 {method 'take' of 'numpy.ndarray' objects}
+   105381    0.075    0.000    0.104    0.000 internals.py:2790(ndim)
+    14240    0.092    0.000    0.103    0.000 _utils.py:121(wrapped)
+    35127    0.089    0.000    0.102    0.000 generic.py:144(_init_mgr)
+   119624    0.101    0.000    0.101    0.000 {method 'rpartition' of 'str' objects}
+    56972    0.101    0.000    0.101    0.000 {method 'fullmatch' of '_sre.SRE_Pattern' objects}
+    70254    0.100    0.000    0.100    0.000 {method 'fill' of 'numpy.ndarray' objects}
+   113920    0.083    0.000    0.100    0.000 _inputstream.py:620(setPosition)
+    70254    0.072    0.000    0.100    0.000 inference.py:66(is_hashable)
+    35127    0.099    0.000    0.099    0.000 <frozen importlib._bootstrap>:355(__init__)
+    28491    0.098    0.000    0.098    0.000 socket.py:611(readable)
+    35127    0.060    0.000    0.098    0.000 common.py:93(is_timedelta64_dtype)
+    35127    0.041    0.000    0.096    0.000 <frozen importlib._bootstrap>:771(find_spec)
+    18262    0.071    0.000    0.094    0.000 _weakrefset.py:81(add)
+    14246    0.063    0.000    0.094    0.000 client.py:942(close)
+    18262    0.077    0.000    0.094    0.000 _weakrefset.py:38(_remove)
+    14240    0.021    0.000    0.094    0.000 _inputstream.py:235(position)
+    86778    0.092    0.000    0.092    0.000 {method 'find' of 'bytes' objects}
+    14243    0.087    0.000    0.087    0.000 {method 'setsockopt' of '_socket.socket' objects}
+       36    0.001    0.000    0.083    0.002 {built-in method builtins.print}
+    28486    0.083    0.000    0.083    0.000 enum.py:515(__new__)
+    35127    0.056    0.000    0.083    0.000 base.py:608(<listcomp>)
+    35127    0.046    0.000    0.082    0.000 internals.py:3513(consolidate)
+   128160    0.082    0.000    0.082    0.000 {method 'lstrip' of 'str' objects}
+    28480    0.059    0.000    0.081    0.000 _tokenizer.py:442(rcdataLessThanSignState)
+    28486    0.071    0.000    0.081    0.000 parse.py:101(_coerce_args)
+    14243    0.041    0.000    0.080    0.000 parse.py:931(splithost)
+    28480    0.044    0.000    0.080    0.000 feedparser.py:122(pushlines)
+    71215    0.059    0.000    0.079    0.000 client.py:995(_output)
+    35127    0.056    0.000    0.078    0.000 base.py:465(is_)
+    35127    0.063    0.000    0.077    0.000 generic.py:2713(__finalize__)
+    70254    0.077    0.000    0.077    0.000 series.py:312(_set_subtyp)
+    56972    0.044    0.000    0.077    0.000 request.py:1303(<genexpr>)
+   105381    0.077    0.000    0.077    0.000 internals.py:3249(is_consolidated)
+    28480    0.056    0.000    0.077    0.000 _tokenizer.py:453(rcdataEndTagOpenState)
+    28480    0.066    0.000    0.075    0.000 _inputstream.py:870(__init__)
+     9390    0.017    0.000    0.075    0.000 re.py:330(filter)
+   140508    0.075    0.000    0.075    0.000 internals.py:2862(_get_items)
+   108979    0.074    0.000    0.074    0.000 {method 'insert' of 'list' objects}
+      793    0.002    0.000    0.073    0.000 _tokenizer.py:305(characterReferenceInRcdata)
+   175635    0.072    0.000    0.072    0.000 {built-in method _imp.release_lock}
+    70254    0.072    0.000    0.072    0.000 validators.py:31(_check_for_default_values)
+    43513    0.071    0.000    0.071    0.000 _inputstream.py:367(unget)
+    35127    0.071    0.000    0.071    0.000 <frozen importlib._bootstrap_external>:1080(_path_importer_cache)
+      793    0.023    0.000    0.071    0.000 _tokenizer.py:137(consumeEntity)
+    18262    0.061    0.000    0.067    0.000 threading.py:966(_stop)
+    35127    0.066    0.000    0.066    0.000 base.py:485(_reset_identity)
+    28480    0.066    0.000    0.066    0.000 _inputstream.py:196(reset)
+    18262    0.066    0.000    0.066    0.000 threading.py:727(_newname)
+    14243    0.044    0.000    0.066    0.000 client.py:879(_get_hostport)
+    14243    0.058    0.000    0.066    0.000 parse.py:909(unwrap)
+    14243    0.031    0.000    0.064    0.000 request.py:389(get_method)
+    35127    0.063    0.000    0.063    0.000 <frozen importlib._bootstrap>:142(__init__)
+    28486    0.036    0.000    0.063    0.000 request.py:412(add_unredirected_header)
+    14243    0.041    0.000    0.061    0.000 client.py:417(flush)
+   156640    0.060    0.000    0.060    0.000 {method 'remove' of 'list' objects}
+    35127    0.060    0.000    0.060    0.000 internals.py:326(iget)
+     1768    0.059    0.000    0.059    0.000 {built-in method posix.urandom}
+     9390    0.040    0.000    0.058    0.000 sre_parse.py:964(expand_template)
+    18778    0.037    0.000    0.058    0.000 threading.py:239(__enter__)
+    14240    0.036    0.000    0.057    0.000 client.py:520(_read_and_discard_trailer)
+    85440    0.057    0.000    0.057    0.000 {method 'lower' of 'bytes' objects}
+      368    0.004    0.000    0.056    0.000 iostream.py:361(write)
+    14240    0.046    0.000    0.056    0.000 _tokenizer.py:1308(beforeDoctypeNameState)
+   140508    0.056    0.000    0.056    0.000 {built-in method pandas.algos.ensure_int64}
+    42720    0.056    0.000    0.056    0.000 _inputstream.py:592(__init__)
+    71200    0.056    0.000    0.056    0.000 {method 'read' of '_io.BytesIO' objects}
+    35127    0.055    0.000    0.055    0.000 {built-in method _imp.is_frozen}
+    56972    0.041    0.000    0.054    0.000 client.py:1243(<genexpr>)
+    18565    0.033    0.000    0.054    0.000 threading.py:251(_acquire_restore)
+    14240    0.044    0.000    0.053    0.000 request.py:635(http_response)
+    14240    0.034    0.000    0.052    0.000 request.py:394(get_full_url)
+    14240    0.025    0.000    0.052    0.000 html5parser.py:1771(__init__)
+    14240    0.044    0.000    0.050    0.000 html5parser.py:413(startTagHtml)
+    70254    0.050    0.000    0.050    0.000 internals.py:175(fill_value)
+    14240    0.036    0.000    0.050    0.000 _tokenizer.py:1660(afterDoctypeSystemIdentifierState)
+    18565    0.028    0.000    0.050    0.000 threading.py:254(_is_owned)
+    14248    0.024    0.000    0.049    0.000 {method '_checkReadable' of '_io._IOBase' objects}
+    14240    0.030    0.000    0.048    0.000 base.py:112(nodesEqual)
+    28480    0.047    0.000    0.047    0.000 base.py:281(_setInsertFromTable)
+    14240    0.014    0.000    0.047    0.000 html5parser.py:2364(__init__)
+    35127    0.046    0.000    0.046    0.000 <frozen importlib._bootstrap_external>:37(_relax_case)
+   140508    0.045    0.000    0.045    0.000 {built-in method _imp.acquire_lock}
+    14243    0.029    0.000    0.044    0.000 parse.py:993(splittag)
+   105681    0.044    0.000    0.044    0.000 {built-in method builtins.callable}
+    14240    0.030    0.000    0.044    0.000 _tokenizer.py:1430(beforeDoctypePublicIdentifierState)
+       63    0.044    0.001    0.044    0.001 {built-in method posix.rename}
+    70254    0.043    0.000    0.043    0.000 internals.py:289(shape)
+    56960    0.042    0.000    0.042    0.000 {method 'seek' of '_io.StringIO' objects}
+    35127    0.042    0.000    0.042    0.000 {built-in method pandas.lib.checknull}
+    28480    0.042    0.000    0.042    0.000 {method 'read' of '_io.StringIO' objects}
+    70254    0.041    0.000    0.041    0.000 {method 'copy' of 'dict' objects}
+    42729    0.041    0.000    0.041    0.000 {method 'capitalize' of 'str' objects}
+    35127    0.041    0.000    0.041    0.000 six.py:184(find_module)
+    14240    0.029    0.000    0.040    0.000 _tokenizer.py:1291(doctypeState)
+    14240    0.034    0.000    0.040    0.000 html5parser.py:723(endTagHead)
+    49518    0.040    0.000    0.040    0.000 {method 'update' of 'dict' objects}
+    14240    0.025    0.000    0.038    0.000 feedparser.py:210(_pop_message)
+    40508    0.038    0.000    0.038    0.000 {method 'add' of 'set' objects}
+    56960    0.038    0.000    0.038    0.000 {method 'partition' of 'str' objects}
+    14240    0.028    0.000    0.038    0.000 _tokenizer.py:1537(betweenDoctypePublicAndSystemIdentifiersState)
+    42726    0.038    0.000    0.038    0.000 request.py:344(full_url)
+    56960    0.037    0.000    0.037    0.000 {method 'seek' of '_io.BytesIO' objects}
+    28480    0.037    0.000    0.037    0.000 {method 'truncate' of '_io.StringIO' objects}
+    18778    0.027    0.000    0.037    0.000 threading.py:242(__exit__)
+    14240    0.026    0.000    0.036    0.000 _tokenizer.py:1410(afterDoctypePublicKeywordState)
+    28480    0.036    0.000    0.036    0.000 {method 'extend' of 'collections.deque' objects}
+    14240    0.036    0.000    0.036    0.000 {method 'write' of '_io.StringIO' objects}
+    28480    0.036    0.000    0.036    0.000 _html5lib.py:48(prepare_markup)
+     6222    0.019    0.000    0.035    0.000 py.py:54(has_keys_with_prefix)
+    42729    0.035    0.000    0.035    0.000 request.py:416(has_header)
+    14240    0.025    0.000    0.034    0.000 message.py:303(set_payload)
+    28628    0.034    0.000    0.034    0.000 {method 'endswith' of 'str' objects}
+    14243    0.027    0.000    0.033    0.000 client.py:804(_get_content_length)
+    14240    0.022    0.000    0.033    0.000 _tokenizer.py:1507(afterDoctypePublicIdentifierState)
+    14240    0.026    0.000    0.033    0.000 element.py:891(string)
+    70254    0.033    0.000    0.033    0.000 {pandas.lib.is_float}
+    42729    0.032    0.000    0.032    0.000 {method 'title' of 'str' objects}
+    14240    0.032    0.000    0.032    0.000 parser.py:18(__init__)
+    35127    0.032    0.000    0.032    0.000 {method 'item' of 'numpy.ndarray' objects}
+    35127    0.032    0.000    0.032    0.000 {built-in method pandas.algos.ensure_platform_int}
+    14243    0.018    0.000    0.031    0.000 <string>:12(__new__)
+    18565    0.022    0.000    0.030    0.000 threading.py:248(_release_save)
+    28782    0.030    0.000    0.030    0.000 {method 'groups' of '_sre.SRE_Match' objects}
+    14248    0.030    0.000    0.030    0.000 {method '_checkClosed' of '_io._IOBase' objects}
+    14243    0.022    0.000    0.030    0.000 request.py:405(has_proxy)
+    14240    0.022    0.000    0.028    0.000 html5parser.py:1621(endTagOther)
+    70254    0.028    0.000    0.028    0.000 numeric.py:137(is_all_dates)
+      958    0.004    0.000    0.028    0.000 parse.py:814(<listcomp>)
+    35127    0.027    0.000    0.027    0.000 base.py:512(dtype)
+     9131    0.014    0.000    0.027    0.000 textProcessor.py:123(replace_special_chars)
+    43242    0.026    0.000    0.026    0.000 {method 'group' of '_sre.SRE_Match' objects}
+    35127    0.026    0.000    0.026    0.000 frame.py:241(_constructor)
+    28480    0.026    0.000    0.026    0.000 __init__.py:129(deprecated_argument)
+    35163    0.025    0.000    0.025    0.000 {built-in method builtins.iter}
+    14240    0.025    0.000    0.025    0.000 html5parser.py:2504(endTagHtml)
+    35127    0.025    0.000    0.025    0.000 <frozen importlib._bootstrap>:173(cb)
+     6816    0.008    0.000    0.023    0.000 {method '__getitem__' of 'dict' objects}
+    38808    0.023    0.000    0.023    0.000 threading.py:506(is_set)
+    35127    0.023    0.000    0.023    0.000 {method 'setdefault' of 'dict' objects}
+    35127    0.021    0.000    0.021    0.000 {pandas.lib.is_integer}
+    18778    0.021    0.000    0.021    0.000 {method '__enter__' of '_thread.lock' objects}
+    35127    0.021    0.000    0.021    0.000 {method 'pop' of 'dict' objects}
+    14240    0.020    0.000    0.020    0.000 __init__.py:102(__init__)
+    56960    0.020    0.000    0.020    0.000 __init__.py:105(reset)
+    14243    0.020    0.000    0.020    0.000 {function HTTPResponse.flush at 0x1062ab268}
+      368    0.002    0.000    0.020    0.000 iostream.py:298(_schedule_flush)
+    14243    0.020    0.000    0.020    0.000 {method 'split' of 'bytes' objects}
+    14243    0.019    0.000    0.019    0.000 parse.py:590(unquote)
+    42729    0.019    0.000    0.019    0.000 request.py:363(data)
+    18262    0.017    0.000    0.017    0.000 {method 'discard' of 'set' objects}
+    35127    0.017    0.000    0.017    0.000 <frozen importlib._bootstrap>:698(find_spec)
+    14240    0.017    0.000    0.017    0.000 html5parser.py:2723(impliedTagToken)
+    18262    0.017    0.000    0.017    0.000 threading.py:1120(daemon)
+      635    0.002    0.000    0.017    0.000 parse.py:75(clear_cache)
+     4757    0.008    0.000    0.016    0.000 parse.py:727(__missing__)
+    35127    0.016    0.000    0.016    0.000 internals.py:144(external_values)
+     1270    0.015    0.000    0.015    0.000 {method 'clear' of 'dict' objects}
+    36827    0.015    0.000    0.015    0.000 {method 'release' of '_thread.lock' objects}
+    14243    0.014    0.000    0.014    0.000 {method 'rstrip' of 'bytes' objects}
+    14243    0.013    0.000    0.013    0.000 client.py:899(set_debuglevel)
+    14240    0.013    0.000    0.013    0.000 __init__.py:337(endData)
+    18262    0.013    0.000    0.013    0.000 treetaggerwrapper.py:1831(<listcomp>)
+     2284    0.006    0.000    0.013    0.000 threading.py:1104(is_alive)
+    14243    0.012    0.000    0.012    0.000 request.py:367(data)
+    28480    0.012    0.000    0.012    0.000 feedparser.py:125(__iter__)
+      148    0.003    0.000    0.011    0.000 colorlog.py:116(format)
+    14243    0.011    0.000    0.011    0.000 request.py:1290(<genexpr>)
+    28480    0.011    0.000    0.011    0.000 {method 'tell' of '_io.BytesIO' objects}
+     4636    0.010    0.000    0.010    0.000 {built-in method _bisect.bisect_left}
+    14240    0.010    0.000    0.010    0.000 html5parser.py:943(isMatchingFormattingElement)
+    18778    0.009    0.000    0.009    0.000 {method '__exit__' of '_thread.lock' objects}
+    14240    0.009    0.000    0.009    0.000 client.py:746(info)
+    28486    0.009    0.000    0.009    0.000 parse.py:90(_noop)
+    14240    0.007    0.000    0.007    0.000 {method 'reverse' of 'list' objects}
+    14240    0.007    0.000    0.007    0.000 _html5lib.py:137(getDocument)
+    14240    0.007    0.000    0.007    0.000 {built-in method builtins.ord}
+    14243    0.007    0.000    0.007    0.000 {method 'upper' of 'str' objects}
+    18262    0.006    0.000    0.006    0.000 {method 'locked' of '_thread.lock' objects}
+    14240    0.006    0.000    0.006    0.000 html5parser.py:427(processSpaceCharacters)
+    14240    0.006    0.000    0.006    0.000 html5parser.py:568(processSpaceCharacters)
+    14240    0.006    0.000    0.006    0.000 html5parser.py:2619(processEOF)
+      255    0.001    0.000    0.006    0.000 genericpath.py:16(exists)
+    14240    0.005    0.000    0.005    0.000 _inputstream.py:596(__iter__)
+      368    0.002    0.000    0.004    0.000 ansitowin32.py:224(convert_osc)
+      479    0.002    0.000    0.004    0.000 parse.py:719(__init__)
+      148    0.001    0.000    0.003    0.000 colorlog.py:112(color)
+     1768    0.003    0.000    0.003    0.000 iostream.py:89(_event_pipe)
+      479    0.002    0.000    0.002    0.000 {method 'union' of 'frozenset' objects}
+     3985    0.002    0.000    0.002    0.000 {built-in method builtins.chr}
+      736    0.002    0.000    0.002    0.000 {method 'finditer' of '_sre.SRE_Pattern' objects}
+      148    0.001    0.000    0.002    0.000 colorlog.py:48(__init__)
+      793    0.001    0.000    0.002    0.000 _base.py:26(longest_prefix)
+      148    0.001    0.000    0.002    0.000 escape_codes.py:58(parse_colors)
+       36    0.000    0.000    0.001    0.000 tweetStream.py:10(__init__)
+      368    0.001    0.000    0.001    0.000 iostream.py:285(_is_master_process)
+      296    0.000    0.000    0.001    0.000 ansitowin32.py:36(__getattr__)
+        3    0.000    0.000    0.001    0.000 __init__.py:1049(_open)
+        3    0.000    0.000    0.001    0.000 handlers.py:96(rotate)
+      793    0.001    0.000    0.001    0.000 py.py:19(__contains__)
+      297    0.000    0.000    0.000    0.000 handlers.py:77(rotation_filename)
+      296    0.000    0.000    0.000    0.000 escape_codes.py:60(<genexpr>)
+      148    0.000    0.000    0.000    0.000 colorlog.py:57(__getattr__)
+       36    0.000    0.000    0.000    0.000 tweetStream.py:28(__str__)
+      296    0.000    0.000    0.000    0.000 ansitowin32.py:178(convert_ansi)
+      296    0.000    0.000    0.000    0.000 {method 'span' of '_sre.SRE_Match' objects}
+       36    0.000    0.000    0.000    0.000 tweetStream.py:31(__iter__)
+       36    0.000    0.000    0.000    0.000 tweetStream.py:37(size)
+        3    0.000    0.000    0.000    0.000 shutil.py:78(_samefile)
+        3    0.000    0.000    0.000    0.000 client.py:1473(__init__)
+        3    0.000    0.000    0.000    0.000 genericpath.py:94(samefile)
+        3    0.000    0.000    0.000    0.000 client.py:1461(__init__)
+        3    0.000    0.000    0.000    0.000 codecs.py:185(__init__)
+        3    0.000    0.000    0.000    0.000 {method 'flush' of '_io.BufferedReader' objects}
+        3    0.000    0.000    0.000    0.000 {built-in method _stat.S_ISFIFO}
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.repr}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}

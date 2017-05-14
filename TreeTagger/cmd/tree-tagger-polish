@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# Set these paths appropriately
+
+BIN=/Users/Barth/Documents/Tweets_collection/TreeTagger/bin
+CMD=/Users/Barth/Documents/Tweets_collection/TreeTagger/cmd
+LIB=/Users/Barth/Documents/Tweets_collection/TreeTagger/lib
+
+OPTIONS="-token -lemma -sgml"
+
+TOKENIZER=${CMD}/utf8-tokenize.perl
+TAGGER=${BIN}/tree-tagger
+ABBR_LIST=${LIB}/polish-abbreviations-utf8
+PARFILE=${LIB}/polish-utf8.par
+
+$TOKENIZER -a $ABBR_LIST $* |
+# tagging
+$TAGGER $OPTIONS $PARFILE

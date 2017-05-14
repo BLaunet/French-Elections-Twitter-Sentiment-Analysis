@@ -1,0 +1,2603 @@
+id,phrase,polarity
+1,@card@ kilo,positive
+2,à base de plante,positive
+3,à bord,positive
+4,à bout,negative
+5,à bout de souffle,negative
+6,à capuche,positive
+7,à carreau,positive
+8,à ce endroit là,positive
+9,à clou,negative
+10,à condition que,positive
+11,à contrecœur,negative
+12,à contre-coeur,negative
+13,à côte,negative
+14,à cran,negative
+15,à cru,positive
+16,à dessein,positive
+17,à destination de,positive
+18,à feuillage caduc,negative
+19,à feuille,positive
+20,à fleur,positive
+21,à foison,positive
+22,à force de qch,positive
+23,à fort poitrine,positive
+24,à friser,positive
+25,à froid,negative
+26,à gauche,negative
+27,à grand-peine,negative
+28,à intervalle régulier,positive
+29,à jamais,positive
+30,à juste titre,positive
+31,à l étranger,positive
+32,à l improviste,negative
+33,à l unanimité,positive
+34,à le abri,positive
+35,à le abri du danger,positive
+36,à le article de le mort,negative
+37,à le bon franquette,positive
+38,à le dérive,negative
+39,à le différence de,negative
+40,à le hâte,negative
+41,à le limite de l insoutenable,negative
+42,à le menthe,positive
+43,à le mode,positive
+44,à le ramasse,negative
+45,à le retraite,positive
+46,à maintes reprise,negative
+47,à mi chemin,positive
+48,à naître,positive
+49,à nervure,negative
+50,à nouveau,positive
+51,à part,negative
+52,à peine,negative
+53,à peu près,negative
+54,à pic,negative
+55,à plat,negative
+56,à plat ventre,negative
+57,à plat ventre devant,negative
+58,à plusieurs reprise,negative
+59,à propos,negative
+60,à quai,positive
+61,à queue,negative
+62,à rallonge,negative
+63,à son compte,positive
+64,à spiral|spirale,positive
+65,à succès,positive
+66,à supposer que,negative
+67,à thème,positive
+68,à tort,negative
+69,à tout épreuve,positive
+70,à tout jamais,positive
+71,à tribord,positive
+72,à venir,positive
+73,à vie,positive
+74,à vif,negative
+75,à vomir,negative
+76,à vrai dire,positive
+77,abri de jardin,negative
+78,abuser de,negative
+79,accident mortel,negative
+80,accident vasculaire cérébral,negative
+81,accuser le coup,negative
+82,acheminer par pont aérien,positive
+83,acheminer par tuyau,positive
+84,acte de défi,negative
+85,acte de fiducie,negative
+86,acte délictuel,negative
+87,action de grâce,positive
+88,adhérer à,positive
+89,administrer qch à qqn,positive
+90,agent de change,positive
+91,agent de conservation,positive
+92,agent de police,positive
+93,aigu marine,positive
+94,aire de jeu,positive
+95,aller à tout vitesse,negative
+96,aller chercher,positive
+97,aller de guingois,negative
+98,aller le échine bas,negative
+99,aller mal,negative
+100,allocation chômage,negative
+101,alors que,negative
+102,âme en peine,negative
+103,âme sœur,positive
+104,aménagement paysager,positive
+105,amour de soi,negative
+106,amuser gueule,positive
+107,ancien combattant,positive
+108,ancien élève,positive
+109,animal de compagnie,negative
+110,appareil de chauffage,positive
+111,appartement terrasse,positive
+112,appellation inappropriée,negative
+113,après midi,positive
+114,argent liquide,positive
+115,argent recueillir,positive
+116,arme à feu,negative
+117,arme à répétition,negative
+118,arrière goût,negative
+119,arrière pays,positive
+120,arrière plan,positive
+121,arriver à,positive
+122,art du portrait,positive
+123,art oratoire,positive
+124,assemblée plénier,positive
+125,asséner un coup,negative
+126,assez de le vie,negative
+127,assister à,positive
+128,association caritatif,positive
+129,assoiffer de sang,negative
+130,atelier de reliure,positive
+131,attaque choc,negative
+132,attaquer avec un hache,negative
+133,attarder mental,negative
+134,attitude amical,positive
+135,au aguet,negative
+136,au ange,positive
+137,au beurre,positive
+138,au bord du larme,negative
+139,au centre,positive
+140,au charme désuet,positive
+141,au chocolat,positive
+142,au chômage,negative
+143,au coin du feu,positive
+144,au curry,positive
+145,au dessus,positive
+146,au dessus du force|forces,negative
+147,au galop,positive
+148,au goût de beurre,positive
+149,au gouvernement,positive
+150,au hasard,positive
+151,au herbe,positive
+152,au idée arrêté,negative
+153,au lait,positive
+154,au microscope,positive
+155,au milieu de,positive
+156,au mœurs léger,negative
+157,au multiple fonction,positive
+158,au plus mal,negative
+159,au pomme,positive
+160,au pouvoir,positive
+161,au premier plan,positive
+162,au revoir,negative
+163,au supplice,negative
+164,au top,positive
+165,aussi que,positive
+166,avaler du couleuvre,negative
+167,avancer au ralenti,negative
+168,avancer lentement,negative
+169,avancer petit à petit,positive
+170,avant bras,positive
+171,avant de,negative
+172,avant dernier,negative
+173,avant garde,positive
+174,avant poste,negative
+175,avant propos,positive
+176,avec âme,positive
+177,avec amertume,negative
+178,avec attention,positive
+179,avec crainte,negative
+180,avec de gros morceau,negative
+181,avec désinvolture,positive
+182,avec fermeté,positive
+183,avec insistance,positive
+184,avec lassitude,negative
+185,avec le même intensité,positive
+186,avec lequel,positive
+187,avec modération,positive
+188,avec parcimonie,positive
+189,avec précaution,positive
+190,avec prudence,positive
+191,avec quoi,positive
+192,avec sérieux,positive
+193,avec un grand raffinement,positive
+194,avec violence,negative
+195,avoir confiance,positive
+196,avoir de le âme,positive
+197,avoir de le estomac,positive
+198,avoir du chagrin,negative
+199,avoir du couille,positive
+200,avoir du difficulté,negative
+201,avoir du tripe,positive
+202,avoir en horreur,negative
+203,avoir en stock,positive
+204,avoir goût à rien,negative
+205,avoir le boule,negative
+206,avoir le cœur barbouiller,negative
+207,avoir le cœur bien accrocher,positive
+208,avoir le cœur noyer,negative
+209,avoir le cœur soulever,negative
+210,avoir le diable au corps,positive
+211,avoir le estomac bien accrocher,positive
+212,avoir le fesse qui jouer du tambour,negative
+213,avoir le feu au cul,positive
+214,avoir le hoquet,negative
+215,avoir le jeton,negative
+216,avoir le mode,positive
+217,avoir le moyen,positive
+218,avoir le tête froid,positive
+219,avoir le tête léger,positive
+220,avoir le tête près du bonnet,negative
+221,avoir le tête sur le épaule,positive
+222,avoir mettre son bonnet de travers,negative
+223,avoir peur,negative
+224,avoir pitié,negative
+225,avoir pour but,positive
+226,avoir priori,negative
+227,avoir quelqu'un dans le nez,negative
+228,avoir quelqu'un dans le peau,positive
+229,avoir recours,positive
+230,avoir tout son tête,positive
+231,avoir un bras de coton,negative
+232,avoir un compte,positive
+233,avoir un handicap,negative
+234,avoir un mouvement de recul,negative
+235,avoir un tic,negative
+236,axe central,positive
+237,axe routier,positive
+238,baby sitter,positive
+239,bachelier bachelier,positive
+240,bad trip,negative
+241,bague|bagues orthodontique,positive
+242,bailleur de fond|fonds,positive
+243,baisser le bras,negative
+244,baisser le tête,negative
+245,bal masquer,negative
+246,balin balan,negative
+247,ballon de basket,positive
+248,bande annonce,positive
+249,bande dessiner,positive
+250,bande vidéo,positive
+251,bander le œil,negative
+252,baptême du sang,negative
+253,barque à fond plat,positive
+254,bas de gamme,negative
+255,bas fond|fonds,negative
+256,bas terre,positive
+257,base ball,positive
+258,base de donnée,positive
+259,basket ball,positive
+260,bateau à vapeur,positive
+261,bâton de vieillesse,positive
+262,battage médiatique,negative
+263,battement de jambe,negative
+264,battre de le aile,negative
+265,battre le chamade,positive
+266,baume au cœur,positive
+267,beau gosse,positive
+268,bec verseur,positive
+269,bête noir|noire,negative
+270,bien aimer,positive
+271,bien dans son peau,positive
+272,bien dans son tête,positive
+273,bien en plein propriété,positive
+274,bien être,positive
+275,bien que,negative
+276,biscuit salé,positive
+277,black jack,negative
+278,blairer,negative
+279,blé à moudre,positive
+280,bleu ciel,positive
+281,bleu de travail,positive
+282,bleu lavande,positive
+283,bloc de roche,positive
+284,boire le calice jusqu à le lie,negative
+285,bois de chauffage,positive
+286,boisson alcooliser,negative
+287,boîte de conserve,positive
+288,boîte de nuit,positive
+289,bol alimentaire,positive
+290,bomber le torse,negative
+291,bon à manger,positive
+292,bon à rien,negative
+293,bon âme,positive
+294,bon conscience,positive
+295,bon diable,positive
+296,bon dieu,positive
+297,bon foi,positive
+298,bon garde,positive
+299,bon gorgée,negative
+300,bon humeur,positive
+301,bon mine,positive
+302,bon moment,positive
+303,bon pied bon œil,positive
+304,bon sang,positive
+305,bon sen|sens,positive
+306,bon volonté,positive
+307,bonbon au caramel,positive
+308,bonté divin,positive
+309,bord de mer,positive
+310,bord du trottoir,negative
+311,bord sous le vent,negative
+312,borner kilométrique,positive
+313,bouc émissaire,negative
+314,bouche bée,negative
+315,boucler d oreille,positive
+316,bouée de sauvetage,positive
+317,bouffer de chaleur,negative
+318,bouffer du lion,positive
+319,boule de feu,positive
+320,boule de neige,positive
+321,bras au ciel,negative
+322,bras ballant,negative
+323,bras droit,positive
+324,bras me en tomber,positive
+325,brisement de cœur,negative
+326,broderie perlé,positive
+327,broyer du noir,negative
+328,bruir|bruire de tambour,positive
+329,bruir|bruire métallique,negative
+330,bruir|bruire sec,negative
+331,bruir|bruire sourd,negative
+332,brûlure d estomac,negative
+333,brun grisâtre,negative
+334,çà alors,positive
+335,çà et là,negative
+336,cabane pour enfant,positive
+337,cabine de luxe,positive
+338,cabine de pilotage,positive
+339,cabine particulier,positive
+340,cache nez,negative
+341,cadran solaire,positive
+342,café restaurant,positive
+343,camarade de classe,positive
+344,camarade de jeu,positive
+345,canard mâle,positive
+346,canot de sauvetage,positive
+347,capital propre,positive
+348,capturer au lasso,negative
+349,caractère aléatoire,negative
+350,caractère raisonnable,positive
+351,casse croûte,positive
+352,casse pied,negative
+353,casse tête,positive
+354,cassette vidéo,positive
+355,ce être pitié,positive
+356,ce qui précéder,positive
+357,cent douze livre,positive
+358,cent livre,positive
+359,centre commercial,positive
+360,centre de détention,negative
+361,cerf volant,positive
+362,chair de poule,positive
+363,chambre à coucher,positive
+364,chambre fort,positive
+365,chambre libre,positive
+366,champ de bataille,negative
+367,champion champion,positive
+368,chant de noël,positive
+369,chanter en chœur,positive
+370,chape de plomb,negative
+371,charbon ardent,negative
+372,charbon de bois,negative
+373,charger qqn de faire qch,positive
+374,chat sauvage,negative
+375,chat tigré,positive
+376,chatouiller le oreille,negative
+377,chaud au fesse,negative
+378,chauffe eau,positive
+379,chauve souris,negative
+380,check list,positive
+381,chef d équipe,positive
+382,chef d orchestre,positive
+383,chef opérateur,positive
+384,chemin de croix,negative
+385,chemin de fer,positive
+386,cheval de course,positive
+387,cheval sauvage,negative
+388,chewing gum,positive
+389,chic alors,positive
+390,chien de garde,positive
+391,chier dans son froc,negative
+392,ci joindre,positive
+393,citation à comparaître,negative
+394,citer à comparaître,negative
+395,clair de lune,positive
+396,claquer du dent,negative
+397,clause restrictif,positive
+398,clé en main,positive
+399,clef de voûte,positive
+400,clignement du œil,positive
+401,cligner du œil,positive
+402,cliquer sur,positive
+403,cloche fêlé,negative
+404,clopin clopant,negative
+405,clou de finition,positive
+406,clou de girofle,negative
+407,club house,positive
+408,coffre fort,positive
+409,coin coin,negative
+410,coin du feu,positive
+411,col roulé,positive
+412,colonne vertébral,positive
+413,comme un démon,positive
+414,commissaire priseur,positive
+415,commotion cérébral,negative
+416,compagnie aérien,positive
+417,complexe d infériorité,negative
+418,complexe de supériorité,negative
+419,composé de constituer de,positive
+420,composer un numéro,positive
+421,compte à rebours,negative
+422,compte pour,positive
+423,compte tour,positive
+424,compter à rebours,negative
+425,compter rendre,positive
+426,compteur de vitesse,positive
+427,condition préalable,positive
+428,conduire de cheminée,positive
+429,confiance en soi,positive
+430,confrérie féminin,positive
+431,confusion mental,negative
+432,connaître de tout le monde,positive
+433,contrairement à,negative
+434,contre nature,negative
+435,contre son gré,negative
+436,contre torpilleur,negative
+437,contrevenir à,negative
+438,contrôle de soi,positive
+439,corde à linge,positive
+440,corps législatif,positive
+441,correspondre à,positive
+442,couche culotte,negative
+443,couche de finition,positive
+444,coucher de soleil,positive
+445,coucher du soleil,positive
+446,couci couça,negative
+447,couille mou,negative
+448,couleur prune,positive
+449,coup au cœur,negative
+450,coup d état,negative
+451,coup de balai,negative
+452,coup de barre,negative
+453,coup de chance extraordinaire,positive
+454,coup de cœur,positive
+455,coup de couteau,negative
+456,coup de feu,negative
+457,coup de fil,positive
+458,coup de foudre,negative
+459,coup de fouet,negative
+460,coup de langue,negative
+461,coup de pied,negative
+462,coup de poing,negative
+463,coup de pompe,negative
+464,coup de vent,negative
+465,coup dur,negative
+466,coup et blessure,negative
+467,coup pour coup,negative
+468,coup sec,negative
+469,coupe de cheveu,positive
+470,couper en dé,positive
+471,couper en deux,negative
+472,couper en gros morceau,positive
+473,couper en tranche,negative
+474,couper le cheveu,positive
+475,couper le chique,positive
+476,couper le jambe,positive
+477,couper le souffle,positive
+478,couple mal assortir,negative
+479,cour|cours d eau,positive
+480,courage à deux main,positive
+481,courber le échine,negative
+482,courber le tête,negative
+483,courir après,negative
+484,courir d air,negative
+485,couronne de épine,negative
+486,course à pied,positive
+487,couvrir chef,positive
+488,couvrir de chaume,positive
+489,couvrir feu,negative
+490,cracher au fesse,negative
+491,crayon à papier,positive
+492,crayon de couleur,positive
+493,crayon gras,positive
+494,créancier hypothécaire,positive
+495,cri strident,negative
+496,cribler de trou,negative
+497,crier de joie,positive
+498,crise de rire,positive
+499,croissance démesuré,negative
+500,croix gammée,negative
+501,croque mitaine,negative
+502,croque mort,positive
+503,cruauté du sort,negative
+504,cuillère à soupe,positive
+505,cuir brut,positive
+506,cuir chevelu,negative
+507,cuiseur vapeur,positive
+508,cul par dessus tête,positive
+509,cul par terre,positive
+510,d accord,positive
+511,d actualité,positive
+512,d essai,negative
+513,d humeur changeant,negative
+514,d intérieur,positive
+515,d occasion,negative
+516,d or,positive
+517,dans le merde,negative
+518,dans le monde entier,positive
+519,dans le secret,positive
+520,dans le sen|sens de le longueur,positive
+521,dans le troisième dessous,negative
+522,dans tout son état,negative
+523,dans un sal état,negative
+524,date anniversaire,positive
+525,dé à coudre,positive
+526,de banlieue,negative
+527,de baptême,positive
+528,de base,positive
+529,de bon augure,positive
+530,de bon cœur,positive
+531,de bon goût,positive
+532,de bureau,positive
+533,de cabaret,positive
+534,de ce côté là,positive
+535,de ce monde,positive
+536,de charybde en scylla,negative
+537,de citron,negative
+538,de conclusion,positive
+539,de confirmation,positive
+540,de consolation,negative
+541,de contrebande,negative
+542,de côté,negative
+543,de cuisine,positive
+544,de démolition,negative
+545,de façade,negative
+546,de face,positive
+547,de façon constant,positive
+548,de façon décontracté,positive
+549,de façon identique,positive
+550,de façon introspectif,positive
+551,de félicitation,positive
+552,de fer,positive
+553,de fête,positive
+554,de force,negative
+555,de fort carrure,positive
+556,de fortune,negative
+557,de gaieté de cœur,positive
+558,de gala,positive
+559,de garçon,positive
+560,de glace,positive
+561,de gouverneur,positive
+562,de jeu,positive
+563,de jour,positive
+564,de lancement,positive
+565,de le conversation,positive
+566,de le lune,positive
+567,de luxe,positive
+568,de mal en pi|pis,negative
+569,de manière choquant,negative
+570,de manière exquis,positive
+571,de manière inattendu,negative
+572,de manière satisfaisant,positive
+573,de marbre,positive
+574,de marée,negative
+575,de marié,positive
+576,de marque déposer,positive
+577,de masse,negative
+578,de mauvais augure,negative
+579,de mauvais goût,negative
+580,de mauvais qualité,negative
+581,de mauvais réputation,negative
+582,de même,positive
+583,de mesure,positive
+584,de moisir,negative
+585,de montagne,positive
+586,de naissance,positive
+587,de notre jour,positive
+588,de nouveau,positive
+589,de pire en pire,negative
+590,de plein air,positive
+591,de poisson,negative
+592,de précaution,positive
+593,de premier choix,positive
+594,de premier qualité,positive
+595,de profil,negative
+596,de qualité,positive
+597,de rechange,positive
+598,de représaille,negative
+599,de rêve,positive
+600,de saint,positive
+601,de second main,negative
+602,de son plein gré,positive
+603,de soutien,positive
+604,de sport,positive
+605,de substitution,positive
+606,de terre,positive
+607,de titan,negative
+608,de toujours,positive
+609,de tout le jour,positive
+610,de transition,positive
+611,de travail,positive
+612,de travers,negative
+613,de valeur,positive
+614,de velours,positive
+615,de vote,positive
+616,de voyage,positive
+617,débarrasser de,negative
+618,débordement de,positive
+619,décharger son bile,negative
+620,déclaration écrire sous sermen,positive
+621,déclaration inexact,negative
+622,déclaration officiel,positive
+623,décontracturant musculaire,positive
+624,découper en cube,negative
+625,défaire son valise,positive
+626,défaut de paiement,negative
+627,demande reconventionnel,positive
+628,démarche arrogant,negative
+629,demoiselle d honneur,positive
+630,démon de midi,positive
+631,dent longue,positive
+632,dépôt de bilan,negative
+633,dépôt visqueux,negative
+634,dépourvu de qch,negative
+635,dépourvu de sen|sens,negative
+636,dépourvue de sen|sens,negative
+637,dépourvues de sen|sens,negative
+638,dépouvus de sen|sens,negative
+639,déroger à,negative
+640,descendre directement de,positive
+641,désirer ardemment,positive
+642,dessin animer,positive
+643,dessinateur dessinateur,positive
+644,dessiner le contour,positive
+645,dessus de lit,positive
+646,détention préventif,negative
+647,détournement de fond|fonds,negative
+648,deuxième année,positive
+649,devenir ami avec,positive
+650,devenir trop grand,negative
+651,diagramme circulaire,positive
+652,diamant solitiare,positive
+653,dictionnaire du synonyme,positive
+654,dieu me damner,negative
+655,difficulté de être,negative
+656,digne de confiance,negative
+657,diminuer progressivement,negative
+658,directeur|directrice de le photographie,positive
+659,disc jockey,positive
+660,diviser en deux,negative
+661,diviser en zone,positive
+662,doigt de pied,negative
+663,dommage et intérêt,negative
+664,don du ciel,positive
+665,donner du coup de bec,negative
+666,donner du coup de canne à,negative
+667,donner du cour|cours particulier,positive
+668,donner naissance à,positive
+669,donner qch à qqn,positive
+670,donner son approbation à,positive
+671,donner suite,positive
+672,donner un coup de coude,negative
+673,donner un coup de couteau à,negative
+674,donner un coup de pied,negative
+675,donner un coup de pied dans,positive
+676,donner un coup de poing,negative
+677,donner un coup de tête,negative
+678,donner un fessée à,negative
+679,donner un impulsion,positive
+680,donner un petit coup de coude,positive
+681,donner un pourboire à,positive
+682,dont on se souvenir,positive
+683,dos nu,negative
+684,dossier médical,positive
+685,douche froid,negative
+686,douleur vif,negative
+687,doux mal,negative
+688,dresser le bilan,positive
+689,dresser le cheveu sur le tête,positive
+690,dresseur de cheval,positive
+691,droit d auteur,positive
+692,droit de naissance,positive
+693,droit de visite,positive
+694,du cieux,positive
+695,du coin,positive
+696,du congrès,positive
+697,du conjoint,positive
+698,du gâteau,positive
+699,du gouverneur,positive
+700,du haut,positive
+701,du moi|mois dernier,positive
+702,du moi|mois précédent,positive
+703,du second degré,positive
+704,du tas de qch,positive
+705,dur travail,negative
+706,eau de javel,negative
+707,eau de mer,negative
+708,eau fort,positive
+709,eau usé,negative
+710,ébat amoureux,positive
+711,écart de conduite,negative
+712,échapper à,negative
+713,échapper du petites-maisons,negative
+714,école maternel,positive
+715,écoulement de sang,negative
+716,écoute clandestin,negative
+717,écriture saint,positive
+718,effacement de soi,positive
+719,effet personnel,positive
+720,égal humeur,positive
+721,élection primaire,positive
+722,élément vital,positive
+723,élève de terminal,positive
+724,élève officier,positive
+725,éloge funèbre,negative
+726,embarquer de force,negative
+727,embrouillement du cerveau,negative
+728,employer abusivement,negative
+729,employer de bureau,positive
+730,empreindre de pas,positive
+731,empreinte digital,positive
+732,en abondance,positive
+733,en activité,positive
+734,en agate,positive
+735,en apesanteur,positive
+736,en argent,positive
+737,en arriérer,negative
+738,en attente,negative
+739,en avance,positive
+740,en avant,positive
+741,en aveugle,negative
+742,en avoir le eau à le bouche,positive
+743,en avoir marre,negative
+744,en avoir son claque,negative
+745,en avoir sur le oreille,negative
+746,en baisse,negative
+747,en baver,negative
+748,en bois,positive
+749,en bon santé,positive
+750,en boucher un coin,positive
+751,en caoutchouc,negative
+752,en cas,positive
+753,en ce qui concerner,positive
+754,en cela,positive
+755,en chef,positive
+756,en colère,negative
+757,en colimaçon,positive
+758,en colonne,positive
+759,en continu,positive
+760,en corrélation,positive
+761,en couper,positive
+762,en cour|cours,positive
+763,en déclin,negative
+764,en dent de scie,negative
+765,en désaccord,negative
+766,en descente,negative
+767,en désordre,negative
+768,en dessous,negative
+769,en deuil,negative
+770,en développement,positive
+771,en diminution,negative
+772,en double,positive
+773,en douceur,positive
+774,en épi,negative
+775,en étain,positive
+776,en évidence,positive
+777,en éviter,negative
+778,en extase,positive
+779,en fac similé,negative
+780,en faillite,negative
+781,en faire autant,positive
+782,en feu,negative
+783,en filigrane,positive
+784,en flamme,negative
+785,en fleur,positive
+786,en former de cône,positive
+787,en former de croître,positive
+788,en fuite,negative
+789,en furie,negative
+790,en fusion,negative
+791,en général,positive
+792,en granite,positive
+793,en haillon,negative
+794,en hausse,positive
+795,en haut,positive
+796,en image,positive
+797,en instance,positive
+798,en ivoire,positive
+799,en jachère,negative
+800,en lacet,negative
+801,en laine,positive
+802,en lambeau,negative
+803,en larme,negative
+804,en loque,negative
+805,en mal de amour,negative
+806,en manque,negative
+807,en marbre,positive
+808,en mauvais santé,negative
+809,en mettre plein le vue,positive
+810,en montée,positive
+811,en morceau,negative
+812,en mouvement,positive
+813,en nickel,positive
+814,en option,positive
+815,en or,positive
+816,en orbite,positive
+817,en partie,negative
+818,en peluche,positive
+819,en pente,negative
+820,en perdition,negative
+821,en pincer pour,positive
+822,en plein air,positive
+823,en plein essor,positive
+824,en plein forme,positive
+825,en pleur|pleurs,negative
+826,en plume,positive
+827,en plus,positive
+828,en poudre,negative
+829,en prendre plein le gencive,negative
+830,en privé,positive
+831,en proie à,positive
+832,en rafale,negative
+833,en relief,positive
+834,en retard,negative
+835,en révolution,negative
+836,en rotin,positive
+837,en ruine,negative
+838,en ruiner s,negative
+839,en saillie,negative
+840,en sang,negative
+841,en satin,positive
+842,en se battre,negative
+843,en secret,negative
+844,en série,positive
+845,en silence,negative
+846,en solitaire,negative
+847,en sommeil,positive
+848,en streaming,negative
+849,en supposer que,negative
+850,en surplus,negative
+851,en suspens,positive
+852,en synergie,positive
+853,en terre,positive
+854,en tête,positive
+855,en totalité,positive
+856,en touffe,negative
+857,en tout,positive
+858,en train de mourir,negative
+859,en très fort hausse,negative
+860,en tripler,positive
+861,en trop,negative
+862,en vain,negative
+863,en velours côtelé,positive
+864,en vérité,positive
+865,en vie,positive
+866,en vigueur,positive
+867,en voie de développement,positive
+868,en voie de disparition,negative
+869,en vouloir à qqn,negative
+870,en vouloir à quelqu'un,negative
+871,en vrac,negative
+872,en vue,positive
+873,enclos paroissial,negative
+874,encore exister,positive
+875,enduire de jointement,negative
+876,enfant de pute,negative
+877,enfant en bas âge,positive
+878,enfant gâté,negative
+879,enfer et damnation,negative
+880,engouement passager,negative
+881,enquêter sur,positive
+882,entre parenthèse,negative
+883,entre temps,positive
+884,entrepôt débarras,negative
+885,entrepreneur de pompe funèbre,positive
+886,entrer en collision,negative
+887,entrer en éruption,negative
+888,envahir par le mauvais herbe,negative
+889,envie irrésistible,negative
+890,envoyer un sms à,positive
+891,épreuve de force,negative
+892,éprouver de le rancune contre,negative
+893,équivaloir à,positive
+894,éruption cutané,negative
+895,espérance de vie,positive
+896,esprit du mal,negative
+897,estomac nouer,negative
+898,établir le fausseté de,negative
+899,établir un discrimination,negative
+900,établissement scolaire,positive
+901,étape important,positive
+902,état critique,negative
+903,état d absence,negative
+904,état d âme,positive
+905,état de choc,negative
+906,état de mal,negative
+907,état second,negative
+908,étendue sauvage,negative
+909,être à genou,negative
+910,être à le tête,positive
+911,être à le traîne,negative
+912,être affaler,negative
+913,être allonger,positive
+914,être apprenti,positive
+915,être assortir,positive
+916,être au service de,negative
+917,être avachir,negative
+918,être bénéfique,positive
+919,être bénévole,positive
+920,être caractériser,positive
+921,être conforme à,positive
+922,être constamment sur le dos de,negative
+923,être d humeur massacrant,negative
+924,être dans de beau drap,negative
+925,être dans de mauvais drap,negative
+926,être dans de sale drap,negative
+927,être dans son tort,negative
+928,être de mal rage,negative
+929,être domicilier,positive
+930,être en adéquation,negative
+931,être en apprentissage,positive
+932,être en bon intelligence,positive
+933,être en désaccord,negative
+934,être en mauvais intelligence,negative
+935,être en rage,negative
+936,être imposant,negative
+937,être incliner,negative
+938,être indiscret,negative
+939,être inonder,negative
+940,être le échine bas,negative
+941,être le plus toucher par,negative
+942,être le premier toucher par,negative
+943,être mal dans son tête,negative
+944,être protubérant,negative
+945,être quitte,positive
+946,être rayonnant,positive
+947,être remonter contre,negative
+948,être soufflé par,positive
+949,être souffrant,negative
+950,être sur le boulet,negative
+951,être sur le genou,negative
+952,être sur pied,positive
+953,être tomber sur le tête,negative
+954,être tout âme,positive
+955,étudier de deuxième année,positive
+956,étudier de premier année,positive
+957,étudier de premier cycle unir,positive
+958,évaporer chagrin,positive
+959,évaporer joie,positive
+960,événement fortuit,positive
+961,événement marquant,positive
+962,examiner avec soin,positive
+963,excuser moi,positive
+964,exécuteur testamentaire,positive
+965,exercer son pontificat,positive
+966,exercice physique,positive
+967,expert comptable commissaire avoir,positive
+968,exploitation agricole,positive
+969,exploitation forestier,positive
+970,exposer le grand ligne,positive
+971,expression idiomatique,positive
+972,expression passer partout,negative
+973,exprimer son reconnaissance,positive
+974,extra muros,negative
+975,extrêmement pénible,negative
+976,fabriquer de tout pièce,negative
+977,fac similé,negative
+978,face contre terre,negative
+979,facile à vivre,positive
+980,faire apparaître,negative
+981,faire appel,positive
+982,faire attention,positive
+983,faire attention à,negative
+984,faire autorité,positive
+985,faire bouillir,negative
+986,faire cadeau,positive
+987,faire campagne,positive
+988,faire chanter,negative
+989,faire circuler,positive
+990,faire confiance,positive
+991,faire cuire au barbecue,positive
+992,faire dans son froc,negative
+993,faire de l exercice,positive
+994,faire de le boxe,negative
+995,faire de le luge,positive
+996,faire de le moto,positive
+997,faire de le publicité,positive
+998,faire de le sculpture,positive
+999,faire détoner,negative
+1000,faire dissidence,negative
+1001,faire du affaire,positive
+1002,faire du canoë,positive
+1003,faire du compromis,positive
+1004,faire du course,positive
+1005,faire du folie,negative
+1006,faire du histoire,negative
+1007,faire du jogging,positive
+1008,faire du mannequinat,positive
+1009,faire du planeur,positive
+1010,faire du racolage,negative
+1011,faire du rap,negative
+1012,faire du remarque continuell,negative
+1013,faire du réserve,positive
+1014,faire du shopping,positive
+1015,faire du trafic,negative
+1016,faire du traîneau,positive
+1017,faire exploser,negative
+1018,faire face,positive
+1019,faire fondre,negative
+1020,faire horreur,negative
+1021,faire infuser,positive
+1022,faire le chronique de,positive
+1023,faire le clown,positive
+1024,faire le cour,positive
+1025,faire le course,positive
+1026,faire le fête,positive
+1027,faire le grimace,negative
+1028,faire le gueule,negative
+1029,faire le leçon,positive
+1030,faire le lippe,negative
+1031,faire le magasin,positive
+1032,faire le médiateur,positive
+1033,faire le moue,negative
+1034,faire le pitre,positive
+1035,faire le queue,negative
+1036,faire le sieste,positive
+1037,faire le tête,negative
+1038,faire mal,negative
+1039,faire mal au couille,negative
+1040,faire marche arrière,negative
+1041,faire obstacle à,negative
+1042,faire obstruction à,negative
+1043,faire passer un entretien,positive
+1044,faire pipi,negative
+1045,faire pivoter,positive
+1046,faire plaisir,positive
+1047,faire référence à,positive
+1048,faire remarquer,negative
+1049,faire semblant,negative
+1050,faire signe,positive
+1051,faire son début,positive
+1052,faire son valise,positive
+1053,faire suite,positive
+1054,faire surface,positive
+1055,faire sursauter,negative
+1056,faire tourner,positive
+1057,faire tremper,negative
+1058,faire un bond,positive
+1059,faire un bruit métallique,negative
+1060,faire un bruit sourd,negative
+1061,faire un coup amortir,negative
+1062,faire un descente dans,negative
+1063,faire un digression,negative
+1064,faire un embardée,negative
+1065,faire un gaffe,negative
+1066,faire un geste,positive
+1067,faire un hémorragie,negative
+1068,faire un manifestation devant,negative
+1069,faire un overdose,negative
+1070,faire un randonnée,positive
+1071,faire un régime,negative
+1072,faire un remise,positive
+1073,faire un scanner de,positive
+1074,faire un sieste,positive
+1075,faire un signe de le main,positive
+1076,faire un signe de le tête,positive
+1077,faire un somme,positive
+1078,faire un sondage,positive
+1079,fait et geste,positive
+1080,famille du défunt,negative
+1081,faussement pudique,negative
+1082,faussement timide,negative
+1083,faute professionnel,negative
+1084,faux bourdon,negative
+1085,faux couche,negative
+1086,faux pas,negative
+1087,faux pli,negative
+1088,faux pudeur,positive
+1089,fécule de maïs,positive
+1090,femme au foyer,positive
+1091,femme de ménage,positive
+1092,femme fatal,positive
+1093,femme politique,positive
+1094,fendre le âme,negative
+1095,fer à cheval,positive
+1096,fermer à clé,positive
+1097,fermeture éclair,positive
+1098,feu d artifice,positive
+1099,feu de joie,positive
+1100,fiche de renseignement,positive
+1101,fil de fer,positive
+1102,fil dentaire,negative
+1103,fil|fils de pute,negative
+1104,filer à tout vitesse,negative
+1105,fille de joie,negative
+1106,fixer du regard,negative
+1107,fixer le prix,positive
+1108,flash back,positive
+1109,flatter qqn servilement,negative
+1110,flocon de neige,positive
+1111,folle|fou de joie,positive
+1112,folle|fou furieux,negative
+1113,fond de cale,negative
+1114,fondre sur,negative
+1115,force de âme,positive
+1116,forêt verdoyant,positive
+1117,forme indistinct,negative
+1118,forme physique,positive
+1119,former un crôute,negative
+1120,formuler un plainte,negative
+1121,fou de joie,positive
+1122,fou folle|fou,negative
+1123,fou furieux,negative
+1124,fou rire,positive
+1125,fourniture de bureau,positive
+1126,fourre tout,negative
+1127,foutre en l air,negative
+1128,frais de scolarité,positive
+1129,frais général,positive
+1130,frange de lit,positive
+1131,froid dans le dos,negative
+1132,froncer le sourcil,negative
+1133,fruit de l imagination,positive
+1134,fruit de mer,negative
+1135,fusée éclairant,positive
+1136,fusil de chasse,negative
+1137,futur marié,positive
+1138,gagner net,positive
+1139,gagner pain,positive
+1140,galerie marchand,positive
+1141,garde à vue,negative
+1142,garde boue,positive
+1143,garde du corps,positive
+1144,garde meuble,positive
+1145,garde robe,positive
+1146,garder manger,positive
+1147,gardien de prison gardien,negative
+1148,gardien gardien,negative
+1149,gâteau au fromage,positive
+1150,glissement de terrain,negative
+1151,golden retriever,positive
+1152,gorge angoisser,negative
+1153,gorge contracté,negative
+1154,gorge crisper,negative
+1155,gorge nouer,negative
+1156,goût de cendre,negative
+1157,goût piquant,positive
+1158,goutte à goutte,negative
+1159,grand con,negative
+1160,grand coup,negative
+1161,grand dam,negative
+1162,grand et maigre,negative
+1163,grand livre,positive
+1164,grand magasin,positive
+1165,grand mère,positive
+1166,grand père,positive
+1167,grand salle,positive
+1168,gratter ciel,positive
+1169,gravure sur bois,positive
+1170,gris mine,negative
+1171,gros con,negative
+1172,gros lot,positive
+1173,gros morceau,positive
+1174,gros sur le cœur,negative
+1175,gros titre,positive
+1176,guet apens,negative
+1177,guider un barque,positive
+1178,hasard extraordinaire,positive
+1179,haussement d épaule,negative
+1180,hausser le épaule,negative
+1181,haut et fort,negative
+1182,haut le cœur,negative
+1183,haut parleur,positive
+1184,haut terre,positive
+1185,herbe à chat,negative
+1186,hérisser de pointe,negative
+1187,heure du coucher,positive
+1188,heurter sur le côté,negative
+1189,hocher de le tête,positive
+1190,hocher le tête,positive
+1191,homme d état,positive
+1192,homme politique,positive
+1193,homosexualité féminin,negative
+1194,hors de haleine,negative
+1195,hors de prix,negative
+1196,hors de propos,negative
+1197,hors de soi,negative
+1198,hors de son gond,negative
+1199,hors du bon sen|sens,negative
+1200,hors du chemin,negative
+1201,hors du gond,negative
+1202,hors jeu,negative
+1203,hors le loi,negative
+1204,hors norme,positive
+1205,hors pair,positive
+1206,humeur noir,negative
+1207,hyper médiatisation,negative
+1208,hypertrophie du moi,negative
+1209,idée faux,negative
+1210,idée fixe,negative
+1211,idée noir,negative
+1212,il y avoir,positive
+1213,impossible à distinguer,negative
+1214,in quarto,positive
+1215,incendie criminel,negative
+1216,incendie de forêt,negative
+1217,incendie volontaire,negative
+1218,index géographique,positive
+1219,induire en erreur,negative
+1220,industrie de le pêche,positive
+1221,infirmier en chef,positive
+1222,insister sur,positive
+1223,intendant économe,positive
+1224,intenter un procès à,negative
+1225,interprétation erroné,negative
+1226,interruption de grossesse,negative
+1227,intrigue secondaire,negative
+1228,introduire clandestinement,negative
+1229,jambier|jambière de cuir,positive
+1230,jambon fumé,positive
+1231,jardin d enfant,positive
+1232,jardin public,positive
+1233,jeter du détritus,negative
+1234,jeter du ordure,negative
+1235,jeter un coup d œil,positive
+1236,jeu d argent,negative
+1237,jeu de dame,positive
+1238,jeu de hasard,positive
+1239,jeu de mot,positive
+1240,jeu du solitaire,positive
+1241,jeune femme,positive
+1242,jeune fille,positive
+1243,jeune homme,positive
+1244,jeune marié,positive
+1245,jouer au golf,positive
+1246,jouer du violon,positive
+1247,jouer un atout,positive
+1248,joueur de cornemuse,positive
+1249,jouir de,positive
+1250,journal intime,positive
+1251,journal officiel,positive
+1252,jusqu à,positive
+1253,jusqu ici,positive
+1254,juste à temps,positive
+1255,juste ciel,positive
+1256,kiosque à journal|journau,positive
+1257,kyste sébacé,negative
+1258,là bas,negative
+1259,la rage dans le cœur,negative
+1260,la|le avoir dans le bec,negative
+1261,la|le avoir dans le dos,negative
+1262,la|le avoir dans le os,negative
+1263,lac écossais,negative
+1264,lâcher le chien,positive
+1265,lâcher pied,negative
+1266,laisser le oreille,negative
+1267,laisser sans surveillance,negative
+1268,laisser sortir,negative
+1269,laisser supposer,positive
+1270,laisser tomber,negative
+1271,lampe de poche,positive
+1272,lance pierre,negative
+1273,large sourire,positive
+1274,larme sanglant,negative
+1275,le âme léger,positive
+1276,le avoir mauvais,negative
+1277,le avoir sec,negative
+1278,le cendre,negative
+1279,le cœur affadir,negative
+1280,le cœur au bord du lèvre,negative
+1281,le cœur dans le gorge,negative
+1282,le cœur en fête,positive
+1283,le cœur serré,negative
+1284,le cœur sur le main,positive
+1285,le conscience tranquille,positive
+1286,le couteau sous le gorge,negative
+1287,le couteau sur le gorge,negative
+1288,le dent dur,negative
+1289,le doigt dans le nez,positive
+1290,le enfer,negative
+1291,le esprit brouiller,negative
+1292,le extrême limite,negative
+1293,le forme,positive
+1294,le gerbe,negative
+1295,le gorge serrer,negative
+1296,le long de,positive
+1297,le meilleur,positive
+1298,le moutarde monter au nez,negative
+1299,le œil bandé,negative
+1300,le œil et le bon,positive
+1301,le œil lui sortir de le tête,negative
+1302,le peau du cœur épais,positive
+1303,le peur au ventre,negative
+1304,le plus âgé,negative
+1305,le plus bas,negative
+1306,le plus élever,positive
+1307,le plus grand,positive
+1308,le plus haut,positive
+1309,le plus intime,positive
+1310,le plus petit,negative
+1311,le plus secret,positive
+1312,le rage au cœur,negative
+1313,le rage au dent,negative
+1314,le rage au ventre,negative
+1315,le souffle couper,negative
+1316,le tête qui tourner,negative
+1317,lecture attentif,positive
+1318,légèrement venteux,positive
+1319,lever du jour,positive
+1320,lever du soleil,positive
+1321,libération conditionnel,positive
+1322,lieu commun,positive
+1323,lieu de naissance,positive
+1324,lieu de prédilection,positive
+1325,lieu de travail,positive
+1326,lieu sûr,positive
+1327,linge à laver,positive
+1328,linge de lit,positive
+1329,linge de maison,positive
+1330,lire attentivement,positive
+1331,lire d enfant,positive
+1332,liste de vérification,positive
+1333,lit bébé,positive
+1334,lit cage,positive
+1335,lit de bébé,positive
+1336,livre sterling,positive
+1337,lueur vacillant,negative
+1338,lumière du étoile,positive
+1339,lumière du soleil,positive
+1340,lumière éblouissant,negative
+1341,lune de miel,positive
+1342,lunette|lunettes de protection,positive
+1343,lunette|lunettes de soleil,positive
+1344,machine à écrire,positive
+1345,main dans le poche,positive
+1346,maintenir son vitesse,positive
+1347,maintes foi|fois,positive
+1348,maison clore,negative
+1349,maison de maître,positive
+1350,maison de ville,positive
+1351,maître de conférence,positive
+1352,maîtriser un sujet,positive
+1353,mal à l aise,negative
+1354,mal à l âme,negative
+1355,mal assortir,negative
+1356,mal assurer,negative
+1357,mal au cœur,negative
+1358,mal au ventre,negative
+1359,mal comprendre,negative
+1360,mal dans son peau,negative
+1361,mal de cœur,negative
+1362,mal de dent,negative
+1363,mal de le absence,negative
+1364,mal de mer,negative
+1365,mal de tête,negative
+1366,mal de vivre,negative
+1367,mal du pays,negative
+1368,mal du siècle,negative
+1369,mal en point,negative
+1370,mal être,negative
+1371,mal informer,negative
+1372,mal renseigner,negative
+1373,maladie de le vie,negative
+1374,maladie mental,negative
+1375,manette du gaz,negative
+1376,manifester contre,negative
+1377,manifester violemment,negative
+1378,manque de confiance,negative
+1379,manque de respect,negative
+1380,manquer de,negative
+1381,manquer de respect,negative
+1382,marchand de fruit et légume,positive
+1383,marcher à quatre patte,negative
+1384,maréchal ferrant,positive
+1385,marge de manœuvre,positive
+1386,mari tromper,negative
+1387,marque de coup,negative
+1388,martel en tête,negative
+1389,mastiquer bruyamment,negative
+1390,matériel de guerre,negative
+1391,matériel informatique,positive
+1392,matière fécal,negative
+1393,matière gluant,negative
+1394,matière visqueux,negative
+1395,mauvais comportement,negative
+1396,mauvais conduite,negative
+1397,mauvais conscience,negative
+1398,mauvais coton,negative
+1399,mauvais gestion,negative
+1400,mauvais herbe,negative
+1401,mauvais humeur,negative
+1402,mauvais mine,negative
+1403,mauvais pas,negative
+1404,mauvais passe,negative
+1405,mauvais quart de heure,negative
+1406,mauvais réputation,negative
+1407,mauvais rêve,negative
+1408,mauvais sang,negative
+1409,médecine légal,positive
+1410,médico légal,positive
+1411,membre du congrès,positive
+1412,même si,negative
+1413,mentionner ci dessus,positive
+1414,menu détail,negative
+1415,mère porteur,positive
+1416,méthode thérapeutique,positive
+1417,métier à tisser,negative
+1418,mets fin,positive
+1419,mettre à contribution,positive
+1420,mettre à quai,positive
+1421,mettre à sac,negative
+1422,mettre au chenil,negative
+1423,mettre au défi,negative
+1424,mettre au défi de faire qch,positive
+1425,mettre au garage,positive
+1426,mettre au jour,positive
+1427,mettre bas,negative
+1428,mettre dans un tableau,positive
+1429,mettre en accusation,negative
+1430,mettre en bouteille,positive
+1431,mettre en cage,negative
+1432,mettre en commun,positive
+1433,mettre en conserve,positive
+1434,mettre en danger,negative
+1435,mettre en évidence,positive
+1436,mettre en examen,negative
+1437,mettre en gage,negative
+1438,mettre en garde,negative
+1439,mettre en liberté conditionnel,positive
+1440,mettre en œuvre,positive
+1441,mettre en péril,negative
+1442,mettre en pratique,positive
+1443,mettre en scène,positive
+1444,mettre en tableau x,positive
+1445,mettre en tombola,positive
+1446,mettre en vigueur,positive
+1447,mettre fin,negative
+1448,mettre l accent sur,positive
+1449,mettre le doigt sur un plaie,negative
+1450,mettre le pression,negative
+1451,mettre pied à terre,positive
+1452,mettre sous calmer,positive
+1453,mettre sous sédatif,positive
+1454,mettre sur cric,positive
+1455,mettre un corset,positive
+1456,mettre un terme à,negative
+1457,meuble de rangement,positive
+1458,milieu de l être,positive
+1459,mille milliard,positive
+1460,mise au point,positive
+1461,moelle osseux,positive
+1462,mon chéri,positive
+1463,mon dieu,positive
+1464,montagne russe,negative
+1465,monter charge,positive
+1466,montrer bracelet,positive
+1467,montrer le croc,negative
+1468,montrer le dent,negative
+1469,mort dans le âme,negative
+1470,mort de rire,positive
+1471,mort et damnation,negative
+1472,mort naître,negative
+1473,mot pour mot,positive
+1474,motif écossais,positive
+1475,moulin à vent,positive
+1476,mouvement constant,negative
+1477,mouvement de le âme,positive
+1478,mouvement intérieur,positive
+1479,moyen de subsistance,positive
+1480,my god,positive
+1481,mycose vaginal,negative
+1482,navigation à voile,positive
+1483,navigation de plaisance,positive
+1484,navire prison,negative
+1485,ne pas aimer,negative
+1486,ne pas croire,negative
+1487,ne pas être d accord,negative
+1488,ne pas laisser paraître,negative
+1489,ne pas se attendre à,positive
+1490,ne pas tenir compte,negative
+1491,ne plus pouvoir piffer quelqu'un,negative
+1492,ne plus pouvoir sacquer quelqu'un,negative
+1493,ne plus se sentir pisser,negative
+1494,neige fondu,negative
+1495,ni chaud ni froid,positive
+1496,nœud coulant,positive
+1497,noir de colère,negative
+1498,noir de rire,positive
+1499,noir pensée,negative
+1500,noir pressentiment,negative
+1501,noix de muscade,positive
+1502,nom de dieu,negative
+1503,nom de famille,positive
+1504,nombre de passager,positive
+1505,nombre entier,positive
+1506,nombril de belzébuth,negative
+1507,non accompagner,negative
+1508,non approuver,negative
+1509,non armé,negative
+1510,non armer,negative
+1511,non attacher,negative
+1512,non autoriser,negative
+1513,non confirmer,negative
+1514,non contenir,negative
+1515,non contraindre,positive
+1516,non conventionnel,negative
+1517,non coupable,positive
+1518,non découvert,negative
+1519,non découvrir,negative
+1520,non déranger,positive
+1521,non désirer,negative
+1522,non développer,negative
+1523,non divulguer,negative
+1524,non écrire,negative
+1525,non enregistrer,negative
+1526,non formé,negative
+1527,non former,negative
+1528,non garder,negative
+1529,non immatriculer,negative
+1530,non infecter,positive
+1531,non initier,negative
+1532,non inscrire,negative
+1533,non intentionnel,negative
+1534,non laver,negative
+1535,non lire,negative
+1536,non marier,negative
+1537,non marquer,positive
+1538,non meubler,negative
+1539,non numéroter,negative
+1540,non officiel,negative
+1541,non organique,negative
+1542,non orienter,negative
+1543,non ouvrir,negative
+1544,non paiement,negative
+1545,non partager,negative
+1546,non protéger,negative
+1547,non réciproque,negative
+1548,non réclamer,negative
+1549,non reconnaître,negative
+1550,non réglementer,negative
+1551,non rémunérer,negative
+1552,non résident,negative
+1553,non résider,negative
+1554,non résoudre,negative
+1555,non respect,negative
+1556,non révéler,negative
+1557,non scientifique,negative
+1558,non sen|sens,negative
+1559,non souhaiter,negative
+1560,non spécifier,negative
+1561,non sucrer,positive
+1562,non surveiller,negative
+1563,non tacher,positive
+1564,non tester,negative
+1565,non traduire,negative
+1566,non troubler,positive
+1567,non valide,negative
+1568,non valider,negative
+1569,non vérifier,negative
+1570,non viable,negative
+1571,notice nécrologique,negative
+1572,nouveau investissement,positive
+1573,nouveau naître,positive
+1574,nouveau session,positive
+1575,nouveau venu,positive
+1576,nouveau venu|venue,positive
+1577,obéir à,positive
+1578,objet faire à le main,positive
+1579,œil de merlan frire,positive
+1580,œil doux,positive
+1581,œil sec,positive
+1582,œuf de poisson,negative
+1583,œuvre classique,positive
+1584,oiseau mouche,positive
+1585,opposer son veto,negative
+1586,ordre gestuel,positive
+1587,oreille bas,negative
+1588,oreille du cœur,positive
+1589,ouïr dire,negative
+1590,outil de coupe,positive
+1591,ouvrer|ouvrir boîte,positive
+1592,palais de justice,positive
+1593,pansement adhésif,negative
+1594,papier de garde,positive
+1595,papillon noir,negative
+1596,par accident,negative
+1597,par conséquent,positive
+1598,par défaut,negative
+1599,par dessus le oreille,negative
+1600,par dessus le tête,negative
+1601,par dix,positive
+1602,par hasard,positive
+1603,par inadvertance,negative
+1604,par intérim,positive
+1605,par jupiter,positive
+1606,par là,positive
+1607,par le force,negative
+1608,par le poste,positive
+1609,par le suite,negative
+1610,par lot,positive
+1611,par mégarde,negative
+1612,par morceau,negative
+1613,par procuration,positive
+1614,par quatre,positive
+1615,par surprise,negative
+1616,par tout le diable,positive
+1617,par tout le dieu,positive
+1618,par toutatis,positive
+1619,parer balle,positive
+1620,parer choc,positive
+1621,parti prendre,negative
+1622,parvenir à,positive
+1623,pas cher,negative
+1624,pas complètement,negative
+1625,pas convaincre,negative
+1626,pas de côté,negative
+1627,pas digne de confiance,negative
+1628,pas disposer,negative
+1629,pas en croire son oreille,positive
+1630,pas froid au œil,positive
+1631,pas le moindre,negative
+1632,pas préparer,negative
+1633,passage à tabac,negative
+1634,passer en contrebande,negative
+1635,passer son langue sur le lèvre,positive
+1636,passer temps,positive
+1637,peau de vache,negative
+1638,pêche à le ligne,positive
+1639,pêcher au chalut,positive
+1640,peinture mural,positive
+1641,pendant ce temps,positive
+1642,pendant que,negative
+1643,pénétrer illégalement dans un,negative
+1644,penser après coup,negative
+1645,penser bête,positive
+1646,pension alimentaire,negative
+1647,perdre connaissance,negative
+1648,perdre goût,negative
+1649,perdre le tête,negative
+1650,perdre pied,negative
+1651,père fouettard,negative
+1652,personne âgé,positive
+1653,personne interroger,positive
+1654,personne qui changer qch,positive
+1655,personne qui fredonner,positive
+1656,personne qui prier,positive
+1657,personne qui se disputer,negative
+1658,personne sonder,positive
+1659,perte de connaissance,negative
+1660,peser au le épaule,negative
+1661,peser sur le épaule,negative
+1662,pessimisme noir,negative
+1663,péter le plomb,negative
+1664,péter plus haut que son cul,negative
+1665,petit ami,positive
+1666,petit bête,negative
+1667,petit cadeau,positive
+1668,petit chat,positive
+1669,petit coin,negative
+1670,petit comité,positive
+1671,petit con,negative
+1672,petit coup,negative
+1673,petit coup de coude,positive
+1674,petit déjeuner,positive
+1675,petit enfance,positive
+1676,petit enfant,positive
+1677,petit faible,positive
+1678,petit ferme,positive
+1679,petit gros petit gros|grosse,negative
+1680,petit idée,positive
+1681,petit morceau,negative
+1682,petit morsure,negative
+1683,petit oiseau,positive
+1684,petit pain,positive
+1685,petit salon,positive
+1686,petit tache,negative
+1687,petit tape,positive
+1688,peu à peu,positive
+1689,peu aimable,negative
+1690,peu amical,negative
+1691,peu attraire,negative
+1692,peu attrayant,negative
+1693,peu clément,negative
+1694,peu commun,negative
+1695,peu commune,negative
+1696,peu communepeu commun,negative
+1697,peu compatissant,negative
+1698,peu compatissante,negative
+1699,peu compatissantes,negative
+1700,peu compatissants,negative
+1701,peu concluant,negative
+1702,peu conclure,negative
+1703,peu coûteux,positive
+1704,peu critique,negative
+1705,peu équitable,negative
+1706,peu familier,negative
+1707,peu fiable,negative
+1708,peu fréquemment,negative
+1709,peu fréquent,negative
+1710,peu importer,negative
+1711,peu instruire,negative
+1712,peu méfiant,negative
+1713,peu méfier,negative
+1714,peu original,negative
+1715,peu orthodoxe,negative
+1716,peu profitable,negative
+1717,peu réaliste,negative
+1718,peu recommandable,negative
+1719,peu rentable,negative
+1720,peu satisfaisant,negative
+1721,peu scrupuleux,negative
+1722,peu séduire,negative
+1723,peu séduisant,negative
+1724,peu soigner,negative
+1725,peu sûr,negative
+1726,pick up,positive
+1727,pièce de dix cent,positive
+1728,pièce de monnaie,positive
+1729,pièce de théâtre,negative
+1730,pièce jointe,positive
+1731,pied de biche,positive
+1732,pied en éventail,positive
+1733,pied gauche,negative
+1734,pied nu,positive
+1735,pierre à feu,negative
+1736,pierre précieux,positive
+1737,pierre tombal,negative
+1738,pince à linge,positive
+1739,pinte de bon sang,positive
+1740,pique niquer,positive
+1741,piquer au sang,negative
+1742,piquer au vif,negative
+1743,piquer niquer,positive
+1744,piquer sur,negative
+1745,piquer un fard,positive
+1746,piquet de grève,negative
+1747,pisse vinaigre,negative
+1748,pisser à le raie,negative
+1749,pisser au cul,negative
+1750,piteux état,negative
+1751,place du marché,positive
+1752,placer en quarantaine,negative
+1753,plante du pied,negative
+1754,plaque chauffant,positive
+1755,plaque tournant,positive
+1756,plaquer au sol,positive
+1757,plat forme,positive
+1758,plein à craquer,negative
+1759,plein d âme,positive
+1760,plein d espoir,positive
+1761,plein de bulle,positive
+1762,plein de cœur,positive
+1763,plein de monde,negative
+1764,plein de ressentiment,negative
+1765,plein de soi même,negative
+1766,plein de son importance,negative
+1767,plein été,positive
+1768,plein le cul,negative
+1769,plein le dos,negative
+1770,plein propriété,positive
+1771,plier le échine,negative
+1772,plier le épaule,negative
+1773,plus âgé,positive
+1774,plus dodu,negative
+1775,plus élever,positive
+1776,plus fort que moi,positive
+1777,plus frais,positive
+1778,plus grand,positive
+1779,plus grand que,positive
+1780,plus haut,positive
+1781,plus important,positive
+1782,plus jeune,positive
+1783,plus loin,negative
+1784,plus petit,negative
+1785,plus poteler,negative
+1786,plus sec,positive
+1787,plus sèche,positive
+1788,plus tôt,positive
+1789,plus vieux,positive
+1790,plusieurs foi|fois,negative
+1791,poche ventral,positive
+1792,poêle à frire,negative
+1793,poids lourd,positive
+1794,point culminer,positive
+1795,point de repère,positive
+1796,point de suspension,positive
+1797,point de suture,negative
+1798,point de vue,positive
+1799,point fort,positive
+1800,point virgule,positive
+1801,police de caractère,positive
+1802,pomper l air,negative
+1803,porc épic,negative
+1804,port maritime,positive
+1805,porte bonheur,positive
+1806,porte monnaie,positive
+1807,porte parole,positive
+1808,porte voix,negative
+1809,porter atteindre,negative
+1810,porter un coup sec à,negative
+1811,porter un toast,positive
+1812,pose de carrelage,positive
+1813,poser du tuile sur,positive
+1814,position accroupir,negative
+1815,position debout,positive
+1816,position par défaut,negative
+1817,post scriptum,positive
+1818,poste d amarrage,positive
+1819,poste de commandement,positive
+1820,poste de guet,positive
+1821,poste vacant,positive
+1822,postuler à,positive
+1823,pot à crème,positive
+1824,pot au feu,positive
+1825,pot de fleur,positive
+1826,pot de vin,negative
+1827,pot pourri,positive
+1828,poteau indicateur,positive
+1829,poudre à canon,negative
+1830,poule mouillé,negative
+1831,pour le jeune,positive
+1832,pour toujours,positive
+1833,poursuite judiciaire,negative
+1834,poursuivre en justice,negative
+1835,pourvoir au besoin de,positive
+1836,pourvu que,positive
+1837,pousser à,negative
+1838,pousser doucement,negative
+1839,pousser du cri,negative
+1840,pousser du doigt,negative
+1841,pousser du huée,negative
+1842,pousser un cri perçant,negative
+1843,pouvoir exécutif,positive
+1844,pouvoir judiciaire,positive
+1845,premier naître,positive
+1846,premier plan,positive
+1847,prendre à le gorge,negative
+1848,prendre au tripe,positive
+1849,prendre de vertige,negative
+1850,prendre du bon temps,positive
+1851,prendre feu,negative
+1852,prendre garde,negative
+1853,prendre goût,positive
+1854,prendre le fuite,negative
+1855,prendre le petit déjeuner,positive
+1856,prendre le risque de,positive
+1857,prendre part à,positive
+1858,prendre son pied,positive
+1859,présenter du excuse,positive
+1860,prêter à confusion,negative
+1861,prêter serment,positive
+1862,prise de bec,negative
+1863,prise de courant,negative
+1864,prise de vertige,negative
+1865,prise en charge,positive
+1866,prise en compte,positive
+1867,prise en considération,positive
+1868,prisonnier de guerre,negative
+1869,prisonnier prisonnier,negative
+1870,priver de qch,negative
+1871,procéder à un lavage interne,negative
+1872,produit cosmétique,positive
+1873,produit de beauté,positive
+1874,produit phare,positive
+1875,professeur particulier,positive
+1876,profiter de,positive
+1877,projet de loi,positive
+1878,promenade en barque,positive
+1879,propos illogique,negative
+1880,propos insignifiant,negative
+1881,proposition de loi,positive
+1882,pull over,positive
+1883,pur sang,positive
+1884,purée de pomme de terre,negative
+1885,putain de dieu,negative
+1886,putain de merde,negative
+1887,pute de moine,negative
+1888,pute de nature,negative
+1889,pute de nous,negative
+1890,quantité suffisant,positive
+1891,quatre vingt dix,positive
+1892,quatre vingts,positive
+1893,que ce être,negative
+1894,que ce être con,negative
+1895,quel con,negative
+1896,quel pitié,negative
+1897,quel que être,negative
+1898,quel sot,negative
+1899,qui approcher,positive
+1900,qui arriver,positive
+1901,qui attendre,negative
+1902,qui augmenter fortement,negative
+1903,qui avoir du avis très arrêter,negative
+1904,qui avoir du préjugé,negative
+1905,qui avoir lieu,positive
+1906,qui avoir perdre,negative
+1907,qui avoir sommeil,negative
+1908,qui avoir un odeur de moisir,negative
+1909,qui bâiller,negative
+1910,qui bouche,negative
+1911,qui calculer,positive
+1912,qui cause du tort,negative
+1913,qui commander,positive
+1914,qui commencer,positive
+1915,qui consommer beaucoup,negative
+1916,qui court,positive
+1917,qui déborder,negative
+1918,qui délire,negative
+1919,qui désirer,positive
+1920,qui divaguer qui radoter,negative
+1921,qui donner envie de vomir,negative
+1922,qui dormir,positive
+1923,qui doute,negative
+1924,qui ébranler,negative
+1925,qui embaumer,positive
+1926,qui empêcher de se concentrer,negative
+1927,qui empire,negative
+1928,qui en résulter,positive
+1929,qui entrave,negative
+1930,qui établir,positive
+1931,qui être un échec,negative
+1932,qui extraire,positive
+1933,qui faire bouger le chose,positive
+1934,qui fond,negative
+1935,qui fuir,negative
+1936,qui gaspiller,negative
+1937,qui induire en erreur,negative
+1938,qui jouer de le batterie,positive
+1939,qui jouer du tambour,positive
+1940,qui manque de,negative
+1941,qui manquer de considération,negative
+1942,qui maudire,negative
+1943,qui mijoter,positive
+1944,qui monter,positive
+1945,qui monter à cru,positive
+1946,qui monter en flêche,negative
+1947,qui ne peser rien,positive
+1948,qui ne se douter de rien,negative
+1949,qui nettoyer,positive
+1950,qui observer en silence,negative
+1951,qui obstruer,negative
+1952,qui passer,negative
+1953,qui passer inaperçu,positive
+1954,qui perdre,negative
+1955,qui périr,negative
+1956,qui pouvoir se procurer,positive
+1957,qui prendre effet,positive
+1958,qui promettre,positive
+1959,qui protéger,positive
+1960,qui réchauffer,positive
+1961,qui recouvrer|recouvrir,positive
+1962,qui répondre,positive
+1963,qui représenter,positive
+1964,qui résonner,positive
+1965,qui rester,negative
+1966,qui retenir,negative
+1967,qui rétrécir,negative
+1968,qui rime,positive
+1969,qui rire,positive
+1970,qui rougir,negative
+1971,qui roule,negative
+1972,qui s empiffrer,negative
+1973,qui s ennuyer,negative
+1974,qui se cacher,negative
+1975,qui se consumer,negative
+1976,qui se dégrader,negative
+1977,qui se détériorer,negative
+1978,qui se faire du souci,negative
+1979,qui se réduire,negative
+1980,qui se vanter,negative
+1981,qui se voir,positive
+1982,qui sombre,negative
+1983,qui sommeiller,positive
+1984,qui sonner,positive
+1985,qui soulager,positive
+1986,qui subsister,positive
+1987,qui suivre,positive
+1988,qui tendre ver|vers,positive
+1989,qui tomber,negative
+1990,qui tourner,negative
+1991,qui travailler,positive
+1992,raconter un bobard,negative
+1993,rage de dent,negative
+1994,rame de papier,positive
+1995,rayon de miel,positive
+1996,rayon de soleil,positive
+1997,reconnaître coupable,negative
+1998,reconstitution historique,positive
+1999,rédacteur en chef,positive
+2000,réduire au maximum,negative
+2001,réduire de moitié,negative
+2002,réduire en purée,negative
+2003,regard méchant,negative
+2004,regarder avec du œil rond,positive
+2005,regarder bêtement,negative
+2006,regarder bouche bée,negative
+2007,regarder en face,positive
+2008,regarder méchamment,negative
+2009,régime politique,positive
+2010,région boisé,positive
+2011,région montagneux,positive
+2012,règlement intérieur,positive
+2013,régner sur,positive
+2014,remettre à plus tard,negative
+2015,remettre du diplôme,positive
+2016,remonter le fermeture éclair,positive
+2017,remonter le pente,positive
+2018,remplir de nouveau,positive
+2019,remue méninge,positive
+2020,rendre enclin,positive
+2021,rendre esclave,negative
+2022,rendre fou,negative
+2023,rendre le pareil,positive
+2024,rendre responsable,negative
+2025,rendre visite,positive
+2026,rendre vous,positive
+2027,renoncer à,negative
+2028,reprendre du poil de le bête,positive
+2029,reprendre goût,positive
+2030,reprendre haleine,positive
+2031,reprendre pied,positive
+2032,résister à,positive
+2033,rester bouche bée,positive
+2034,rester interdire,positive
+2035,rester tapir,negative
+2036,retour de flamme,negative
+2037,retour en arrière,positive
+2038,retourner le cœur,negative
+2039,retourner voir,positive
+2040,retrouver son esprit,positive
+2041,revenir à,positive
+2042,revenir sur son pas,negative
+2043,rien de temps,negative
+2044,rire au éclat,positive
+2045,rire au larme,positive
+2046,rire au nez,negative
+2047,rire bête,positive
+2048,rire bêtement,positive
+2049,rire jaune,negative
+2050,rond de flan,positive
+2051,rond point,positive
+2052,rouge à lèvre,positive
+2053,rouge comme un tomate,positive
+2054,rouleau compresseur,negative
+2055,route à péage,positive
+2056,route national,positive
+2057,ruban adhésif,positive
+2058,rue principal,positive
+2059,s abstenir,negative
+2060,s accroupir,negative
+2061,s adapter,positive
+2062,s agenouiller,negative
+2063,s armer,positive
+2064,s arrêter,negative
+2065,s attarder,negative
+2066,s attendre à,positive
+2067,s atténuer,negative
+2068,s attrouper,negative
+2069,s avérer,positive
+2070,s éclairer,positive
+2071,s écouler,positive
+2072,s efforcer,positive
+2073,s élever,positive
+2074,s émerveiller,positive
+2075,s emmêler,negative
+2076,s emporter,negative
+2077,s enchevêtrer,negative
+2078,s endurcir,negative
+2079,s enrager,negative
+2080,s ensuivre,positive
+2081,s entraînant,positive
+2082,s envaser,negative
+2083,s épanouir,positive
+2084,s éparpiller,negative
+2085,s estomper,negative
+2086,s étendre,positive
+2087,s évertuer,positive
+2088,s exécutant,positive
+2089,s expatrier,negative
+2090,s identifier,positive
+2091,s inclinant,negative
+2092,s incliner,positive
+2093,s inquiéter,negative
+2094,s inscrire,positive
+2095,s occupant de,positive
+2096,s opposer à,negative
+2097,sac à dos,positive
+2098,sac à main,positive
+2099,sage femme,positive
+2100,sain d esprit,positive
+2101,sain et sauf,positive
+2102,sale con,negative
+2103,sale gosse,negative
+2104,sale pute,negative
+2105,salle de bain,positive
+2106,salle de bal,positive
+2107,sang chaud,negative
+2108,sang dans le veine,positive
+2109,sang de navet,negative
+2110,sang froid,positive
+2111,sans abri,negative
+2112,sans accompagnement,negative
+2113,sans aide,negative
+2114,sans ambiguïté,positive
+2115,sans âme,negative
+2116,sans arme,negative
+2117,sans assistance,negative
+2118,sans attache,negative
+2119,sans aucun doute,positive
+2120,sans borne,positive
+2121,sans bruit,positive
+2122,sans but,negative
+2123,sans cesse,positive
+2124,sans cœur,negative
+2125,sans conséquence,negative
+2126,sans contrainte,positive
+2127,sans couleur,negative
+2128,sans couture,positive
+2129,sans défense,negative
+2130,sans délai,positive
+2131,sans dent,negative
+2132,sans domicile fixe,negative
+2133,sans doute,positive
+2134,sans éclat,negative
+2135,sans égal,positive
+2136,sans emploi,negative
+2137,sans énergie,negative
+2138,sans entrave,positive
+2139,sans équivoque,positive
+2140,sans espoir,negative
+2141,sans être voir,negative
+2142,sans faille,positive
+2143,sans faire exprès,negative
+2144,sans faute,positive
+2145,sans fil,positive
+2146,sans fin,positive
+2147,sans fond,negative
+2148,sans fondement,negative
+2149,sans formation,negative
+2150,sans heurt,positive
+2151,sans histoire,positive
+2152,sans importance,negative
+2153,sans instruction,negative
+2154,sans interruption,positive
+2155,sans le faire exprès,negative
+2156,sans le savoir,negative
+2157,sans le sou,negative
+2158,sans le vouloir,negative
+2159,sans lien,negative
+2160,sans limite,positive
+2161,sans manche,positive
+2162,sans merci,negative
+2163,sans nom,negative
+2164,sans obstacle,positive
+2165,sans opposition,positive
+2166,sans permis,negative
+2167,sans peur,positive
+2168,sans pitié,negative
+2169,sans précédent,positive
+2170,sans prétention,positive
+2171,sans rapport,negative
+2172,sans relâche,positive
+2173,sans résistance,positive
+2174,sans restriction,positive
+2175,sans résultat,negative
+2176,sans retenue,positive
+2177,sans scrupule,negative
+2178,sans soleil,negative
+2179,sans sourciller,positive
+2180,sans soutien,negative
+2181,sans sucre,positive
+2182,sans surveillance,negative
+2183,sans tache,positive
+2184,sans tenir compte de,negative
+2185,sans titre,negative
+2186,sans valeur,negative
+2187,sans vie,negative
+2188,sans voix,negative
+2189,santé mental,positive
+2190,santé psychique,positive
+2191,sapeur pompier,positive
+2192,sauter d humeur,positive
+2193,sauter en parachute,negative
+2194,science économique,positive
+2195,science humain,positive
+2196,se bagarrer,negative
+2197,se baigner,positive
+2198,se balader,positive
+2199,se balancer,positive
+2200,se baser,positive
+2201,se battre,negative
+2202,se battre en duel,negative
+2203,se battre pour qch,negative
+2204,se blottir,positive
+2205,se boursoufler,negative
+2206,se braquer,negative
+2207,se briser,negative
+2208,se cacher,negative
+2209,se camoufler,negative
+2210,se casser,negative
+2211,se casser net,negative
+2212,se charger de,positive
+2213,se chevaucher,negative
+2214,se composer de,positive
+2215,se concentrer,positive
+2216,se concrétiser,positive
+2217,se conformer,positive
+2218,se conjuguer,positive
+2219,se connaître,positive
+2220,se connecter,positive
+2221,se contracter,negative
+2222,se contredire,negative
+2223,se coucher,positive
+2224,se couper,negative
+2225,se courber,negative
+2226,se couvrir,positive
+2227,se crisper,negative
+2228,se débarrasser,negative
+2229,se débarrasser de,negative
+2230,se débattre,negative
+2231,se débrouiller,negative
+2232,se décomposer,negative
+2233,se décourager,negative
+2234,se déformer,negative
+2235,se dégonfler,negative
+2236,se dégrader,negative
+2237,se déguiser,negative
+2238,se délecter,positive
+2239,se délester,positive
+2240,se dépêcher,negative
+2241,se déployer,positive
+2242,se dépouiller de,negative
+2243,se déprécier,negative
+2244,se dérouler,positive
+2245,se déshabiller,positive
+2246,se désintégrer,negative
+2247,se désister,negative
+2248,se détendre,positive
+2249,se détériorer,negative
+2250,se dévaloriser,negative
+2251,se développer,positive
+2252,se dilater,negative
+2253,se disperser,negative
+2254,se disputer,negative
+2255,se dissiper,negative
+2256,se dissoudre,negative
+2257,se diversifier,positive
+2258,se doucher,positive
+2259,se durcir,negative
+2260,se en donner à cœur joie,positive
+2261,se en remettre,positive
+2262,se en vouloir,negative
+2263,se faire du cheveu blanc,negative
+2264,se faire passer pour,negative
+2265,se faire plaisir,positive
+2266,se faire un visage de bois,negative
+2267,se familiariser,positive
+2268,se fatiguer,negative
+2269,se faufiler,negative
+2270,se fissurer,negative
+2271,se fouler,negative
+2272,se frotter,negative
+2273,se frotter le main,positive
+2274,se glisser,negative
+2275,se glisser furtivement,negative
+2276,se gonfler,negative
+2277,se hérisser,negative
+2278,se jeter sur,negative
+2279,se joindre à,positive
+2280,se la péter,negative
+2281,se lamenter,negative
+2282,se lasser,negative
+2283,se lécher le babine,positive
+2284,se lécher le lèvre,positive
+2285,se loger,positive
+2286,se marier,positive
+2287,se masturber,positive
+2288,se matérialiser,positive
+2289,se méfier de,negative
+2290,se mélanger,positive
+2291,se mêler,negative
+2292,se méprendre,negative
+2293,se mettre à califourchon sur,positive
+2294,se mettre à genou,negative
+2295,se mettre en grève,negative
+2296,se mirer,positive
+2297,se moquer,negative
+2298,se moquer de,negative
+2299,se mordre le doigt,negative
+2300,se mordre le lèvre,negative
+2301,se multiplier,positive
+2302,se noyer,negative
+2303,se pâmer,positive
+2304,se parjurer,negative
+2305,se pavaner,negative
+2306,se payer|payer le tête,negative
+2307,se pencher,negative
+2308,se percher,positive
+2309,se périmer,negative
+2310,se permettre,positive
+2311,se plaindre,negative
+2312,se plier,negative
+2313,se plonger,positive
+2314,se porter garant,positive
+2315,se positionner,positive
+2316,se pourlécher le lèvre,positive
+2317,se précipiter,negative
+2318,se prélasser,positive
+2319,se préparer,positive
+2320,se presser,negative
+2321,se procurer,positive
+2322,se produire,positive
+2323,se profiler,negative
+2324,se promener,positive
+2325,se propager,negative
+2326,se proposer,positive
+2327,se prostituer,negative
+2328,se qualifier,positive
+2329,se quereller,negative
+2330,se raidir,negative
+2331,se rappeler,positive
+2332,se rapprocher,positive
+2333,se raser,positive
+2334,se rassembler,positive
+2335,se rebeller,negative
+2336,se redresser,positive
+2337,se régaler,positive
+2338,se régénérer,positive
+2339,se rejoindre,positive
+2340,se réjouir,positive
+2341,se remettre,positive
+2342,se rendre,negative
+2343,se renseigner,positive
+2344,se répandre,negative
+2345,se repentir,positive
+2346,se reposer,positive
+2347,se représenter,positive
+2348,se reproduire,negative
+2349,se retirer,negative
+2350,se retourner contre qqn,negative
+2351,se rétracter,negative
+2352,se rétrécir,negative
+2353,se réveiller,positive
+2354,se révolter,negative
+2355,se sentir léger,positive
+2356,se séparer,negative
+2357,se solidifier,positive
+2358,se souvenir,positive
+2359,se souvenir de,positive
+2360,se spécialiser,positive
+2361,se suicider,negative
+2362,se taire,negative
+2363,se taper le fesse par terre,positive
+2364,se tapir,negative
+2365,se tenir debout,positive
+2366,se terminer,negative
+2367,se tortiller,negative
+2368,se tracasser,negative
+2369,se tromper,negative
+2370,se vanter,negative
+2371,se vautrer,negative
+2372,se venger,negative
+2373,sèche cheveu,positive
+2374,sèche linge,positive
+2375,secrétaire général,positive
+2376,self control,positive
+2377,sen|sens général,positive
+2378,sens dessus dessous,negative
+2379,sentiment d injustice,negative
+2380,sentiment de liberté,positive
+2381,sentir mauvais,negative
+2382,septième ciel,positive
+2383,serpent à sonnette,negative
+2384,serrer le cœur,negative
+2385,serrer le fesse,negative
+2386,serviette de table,positive
+2387,servir à le louche,positive
+2388,si que,positive
+2389,siège social,positive
+2390,signal lumineux,positive
+2391,signe avant coureur,negative
+2392,signe de le main,positive
+2393,situation délicat,negative
+2394,situation difficile,negative
+2395,soi dire,negative
+2396,soi même,positive
+2397,soixante dix,positive
+2398,solidarité féminin,positive
+2399,sombre pensée,negative
+2400,sommeil de plomb,negative
+2401,somptueux étalage,positive
+2402,son de blé,positive
+2403,sortir avec qqn,positive
+2404,sou entendre,positive
+2405,sou payer|payer,negative
+2406,souffler en rafale,negative
+2407,souffrir douleur,negative
+2408,soupe au lait,negative
+2409,soupe épais,positive
+2410,sourire bête,negative
+2411,sourire suffisant,negative
+2412,sous bois,negative
+2413,sous comité,positive
+2414,sous condition,negative
+2415,sous cutané,negative
+2416,sous ensemble,positive
+2417,sous entendre,negative
+2418,sous estimer,negative
+2419,sous marin,negative
+2420,sous peu,positive
+2421,sous sol,negative
+2422,sous tendre,positive
+2423,sous terre,negative
+2424,sous type,positive
+2425,sous vêtement,positive
+2426,souverain pontife,positive
+2427,spectacle fabuleux,positive
+2428,statuer sur,negative
+2429,sueur froid,negative
+2430,suivre à le trace,positive
+2431,suivre le trace de,positive
+2432,supportable,negative
+2433,supporter qch,positive
+2434,sur ce,positive
+2435,sur le champ,positive
+2436,sur le cul,positive
+2437,sur le dent,negative
+2438,sur le rotule,negative
+2439,sur le ventre,negative
+2440,sur qui on ne pouvoir compter,negative
+2441,surestimation personnel,negative
+2442,surpasser en nombre,positive
+2443,surveillant pénitentiaire,negative
+2444,surveiller pénitentiaire,negative
+2445,survivre à,positive
+2446,suturer qch,negative
+2447,système hydraulique,negative
+2448,tabac à priser,negative
+2449,tableau de bord,positive
+2450,tableau noir,positive
+2451,tâcher de,positive
+2452,taedium vitae,negative
+2453,taie d oreiller,positive
+2454,taille haie,negative
+2455,tant bien que mal,negative
+2456,taper dans le œil,positive
+2457,tapir de course,positive
+2458,tapis roulant,positive
+2459,témoigner de le sympathie,positive
+2460,témoin oculaire,positive
+2461,tendre le échine,negative
+2462,tendre un embuscade à,negative
+2463,tenir compte de,positive
+2464,tenir en laisse,negative
+2465,terre boisé,positive
+2466,tête à claque,negative
+2467,tête baisser,negative
+2468,tête chaud,negative
+2469,tête d enterrement,negative
+2470,tête de cochon,negative
+2471,tête de nœud,negative
+2472,tête de puits,positive
+2473,tête le premier,negative
+2474,texte sacré,positive
+2475,texte standard,negative
+2476,thème majeur,positive
+2477,ticket de caisse,positive
+2478,tir à l arc,positive
+2479,tirer à pile ou face,negative
+2480,tirer bouchon,positive
+2481,tirer profit,positive
+2482,tirer profit de,positive
+2483,tirer son chapeau,positive
+2484,toile de jute,negative
+2485,toilette extérieur,negative
+2486,tomber à le renverse,positive
+2487,tomber dans le bras,positive
+2488,tomber dans le pomme,negative
+2489,tomber de le nuit,negative
+2490,tomber du nue,positive
+2491,tomber en flocon,negative
+2492,tomber en pâmoison,positive
+2493,tomber goutte à goutte,negative
+2494,tomber nez à nez,positive
+2495,tomber sur,positive
+2496,ton monotone,negative
+2497,tonnerre de bordel,negative
+2498,tonnerre de dieu,negative
+2499,toucher le fond,negative
+2500,toucher par,negative
+2501,tour de main,positive
+2502,tour de taille,positive
+2503,tourner autour de,positive
+2504,tout à coup,negative
+2505,tout à fait,positive
+2506,tout autour,positive
+2507,tout chose,positive
+2508,tout comprendre,positive
+2509,tout de même,negative
+2510,tout de suite,positive
+2511,tout griffe dehors,negative
+2512,tout le an,positive
+2513,tout le deux semaine,positive
+2514,tout le heure,positive
+2515,tout le jour,positive
+2516,tout le quinze jour,positive
+2517,tout le semaine,positive
+2518,tout puissance,positive
+2519,tout puissant,positive
+2520,tracer du ligne,positive
+2521,train en marche,positive
+2522,traîner le pied,negative
+2523,traire d union,positive
+2524,traiter avec condescendance,negative
+2525,tranche de rire,positive
+2526,transfert de propriété,positive
+2527,transport maritime,positive
+2528,transport routier,positive
+2529,travail de bureau travail admi,positive
+2530,travail pénible,negative
+2531,travail préparatoire,positive
+2532,travailler dur,positive
+2533,travailler en indépendant,positive
+2534,traverser à gué,positive
+2535,tremblement de terre,negative
+2536,très courant,positive
+2537,très éprouver,negative
+2538,très facile,positive
+2539,très intelligent,positive
+2540,très long,negative
+2541,très longue,negative
+2542,très peupler,negative
+2543,triple idiot,negative
+2544,triste notoriété,negative
+2545,trois foi|fois,positive
+2546,trop cher,negative
+2547,trop diluer,negative
+2548,trop liquide,negative
+2549,trop long,negative
+2550,trop longue,negative
+2551,trop payer|payer,negative
+2552,trop zélé,negative
+2553,trou de serrure,positive
+2554,trou du cul,negative
+2555,trou perdu,negative
+2556,tube couder,positive
+2557,un cœur léger,positive
+2558,un dent contre,negative
+2559,un foi|fois par semaine,positive
+2560,un foi|fois tout le deux moi|mois,positive
+2561,un petit coup,positive
+2562,un peu,positive
+2563,un puce à le muet|muette,negative
+2564,usage abusif,negative
+2565,usage impropre,negative
+2566,vague à l âme,negative
+2567,vague idée,positive
+2568,vaisseau amiral,positive
+2569,velours côtelé,positive
+2570,vendeur ambulant,positive
+2571,vendre au enchère,negative
+2572,vent violent,negative
+2573,vente au détail,positive
+2574,vente au enchère,negative
+2575,vers l extérieur,positive
+2576,vers l intérieur,positive
+2577,vers le haut,positive
+2578,verser dans un tasse,positive
+2579,verser un pot de vin à,negative
+2580,vert jade,positive
+2581,viande de porc,positive
+2582,vibreur sonore,positive
+2583,vieux âge,negative
+2584,vieux con,negative
+2585,vieux fille,negative
+2586,vieux sorcier,negative
+2587,vingt dieu,negative
+2588,violation de propriété,negative
+2589,virer de bord,negative
+2590,virus de l herpès,negative
+2591,vivre en bon intelligence,positive
+2592,vivre en mauvais intelligence,negative
+2593,voie ferré,positive
+2594,voix du sang,positive
+2595,vol à l étalage,negative
+2596,voler en éclat,negative
+2597,voler moteur,positive
+2598,voter pour,positive
+2599,vrai casse tête,negative
+2600,w c,negative
+2601,wagon lit,positive
+2602,yacht de croisière,positive
